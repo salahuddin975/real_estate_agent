@@ -37,7 +37,7 @@ encoder = SentenceTransformer("all-MiniLM-L6-v2")           # Import the models
 client = QdrantClient(":memory:")                           # Define storage location; device memory
 
 client.create_collection(                                   # Create a collection
-    collection_name="real_state",
+    collection_name="real_estate",
     vectors_config=models.VectorParams(
         size=encoder.get_sentence_embedding_dimension(),    # Vector size is defined by used model
         distance=models.Distance.COSINE,
@@ -45,7 +45,7 @@ client.create_collection(                                   # Create a collectio
 )
 
 client.upload_points(                                       # Upload data to collection
-    collection_name="real_state",
+    collection_name="real_estate",
     points=[
         models.PointStruct(
             id=idx, vector=encoder.encode(doc["information"]).tolist(), payload=doc
@@ -55,7 +55,7 @@ client.upload_points(                                       # Upload data to col
 )
 
 hits = client.search(                                           # Ask the engine a question
-    collection_name="real_state",
+    collection_name="real_estate",
     query_vector=encoder.encode("minimum price house").tolist(),
     query_filter=models.Filter(                                 # additional conditon
         must=[models.FieldCondition(key="bedroom_number", range=models.Range(gte=8))]
