@@ -30,7 +30,7 @@ real_estate_data = json.loads(real_estate_data)                             # co
 
 model = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")  # or device="cuda" for GPU
 vectors = model.encode(
-    [ row['address'] + ' ' + row['information'] for row in real_estate_data],
+    [ 'address:' + row['address'] + ' ' + row['information'] for row in real_estate_data],
     show_progress_bar=True,
 )
 
