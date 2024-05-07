@@ -1,6 +1,9 @@
 '''
 Based on neural search
 Dataset link: # https://www.kaggle.com/datasets/polartech/500000-us-homes-data-for-sale-properties
+Docker setup:
+- Download the Qdrant image from DockerHub: docker pull qdrant/qdrant
+- Start Qdrant inside of Docker: docker run -p 6333:6333 -v $(pwd)/qdrant_storage:/qdrant/storage qdrant/qdrant
 Tutorial link: https://qdrant.tech/documentation/tutorials/neural-search/
 '''
 
@@ -22,12 +25,12 @@ df['information'] = df.apply(lambda row: 'bedroom_number:' + str(row['bedroom_nu
 df = df[['address', 'bedroom_number', 'bathroom_number', 'living_space',
        'land_space','property_type', 'property_status', 'price', 'information']]
 
-real_estate_data = df.to_json(orient='records')                     # prepare the dataset
-real_estate_data = json.loads(real_estate_data)                     # convert to json data
+real_estate_data = df[:5000].to_json(orient='records')                      # use only first 5000 sample
+real_estate_data = json.loads(real_estate_data)                             # convert to json data
 
 model = SentenceTransformer("all-MiniLM-L6-v2", device="cpu")  # or device="cuda" for GPU
 vectors = model.encode(
-    [ row['address'] + ' ' + row['information'] for row in real_estate_data[:5000]],    # use only first 5000 samples
+    [ row['address'] + ' ' + row['information'] for row in real_estate_data],
     show_progress_bar=True,
 )
 
@@ -41,7 +44,7 @@ np.save("real_estate_vectors.npy", vectors, allow_pickle=False)
 from qdrant_client import QdrantClient
 from qdrant_client.models import VectorParams, Distance
 
-client = QdrantClient("http://localhost:6333")
+client = QdrantClient("http://localhost:6333")          # docker runs at 6333
 client.recreate_collection(
     collection_name="real_estate",
     vectors_config=VectorParams(size=384, distance=Distance.COSINE),
@@ -55,19 +58,3 @@ client.upload_collection(
     ids=None,                       # Vector ids will be assigned automatically
     batch_size=256,                 # How many vectors will be uploaded in a single request?
 )
-
-# --------------------- Deploy the search with FastAPI --------------
-
-from fastapi import FastAPI
-from neural_searcher import NeuralSearcher
-
-app = FastAPI()
-neural_searcher = NeuralSearcher(collection_name="real_estate")         # Create a neural searcher instance
-
-@app.get("/api/search")
-def search_startup(q: str):
-    return {"result": neural_searcher.search(text=q)}
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)

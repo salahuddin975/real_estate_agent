@@ -15,7 +15,7 @@ neural_searcher = NeuralSearcher(collection_name="real_estate")         # Create
 
 @app.get("/api/search")
 def search_startup(q: str, key = 'property_status', value = 'FOR_SALE'):
-    # value = int(value)
+    # value = int(value)                                                # doesn't work with numerical values
     return {"result": neural_searcher.search(text=q, key=key, value=value)}
 
 
