@@ -37,7 +37,7 @@ df = df[['address', 'bedroom_number', 'bathroom_number', 'living_space',
 print(sorted(df['price']))
 print(df.shape)
 
-results = [
+embedded_vectors = [
     gemini_client.embed_content(
         model="models/embedding-001",
         content=sentence,
@@ -54,7 +54,7 @@ points = [                                          # Creating Qdrant Points
         vector=response['embedding'],
         payload={"text": text},
     )
-    for idx, (response, text) in enumerate(zip(results, df['information']))
+    for idx, (response, text) in enumerate(zip(embedded_vectors, df['information']))
 ]
 
 client.recreate_collection(                           # Create Collection
