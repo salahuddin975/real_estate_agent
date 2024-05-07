@@ -1,5 +1,7 @@
 '''
 # Deploy the search with FastAPI
+# Run the service. python service.py
+# Open your browser at http://localhost:8000/docs.
 # Tuturial link: https://qdrant.tech/documentation/tutorials/neural-search/
 '''
 
