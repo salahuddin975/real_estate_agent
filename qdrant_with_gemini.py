@@ -70,25 +70,41 @@ client.upsert(collection_name, points)              # Add these into the collect
 
 # ------------ Searching for documents with Qdrant ----------------
 print("\n=============Minimum price houses===========")
+min_query = "details of minimum price house"
 hits = client.search(
     collection_name=collection_name,
     query_vector=gemini_client.embed_content(
         model="models/embedding-001",
-        content="minimum price houses",
+        content=min_query,
         task_type="retrieval_query",
     )["embedding"],
 )
+min_payload = ''
 for hit in hits:
+    min_payload += hit.payload['text'] + '\n'
     print(hit.payload, "score:", hit.score)
+min_payload += min_query
 
 print("\n=============Maximum price houses===========")
+max_query = "details of maximum price house"
 hits = client.search(
     collection_name=collection_name,
     query_vector=gemini_client.embed_content(
         model="models/embedding-001",
-        content="maximum price houses",
+        content=max_query,
         task_type="retrieval_query",
     )["embedding"],
 )
+max_payload = ''
 for hit in hits:
+    max_payload += hit.payload['text'] + '\n'
     print(hit.payload, "score:", hit.score)
+max_payload += max_query
+
+# ------------------ ask gemini with payload ----------
+response = gemini_client.generate_text(prompt=min_payload)
+print("\n", min_query, ":", response.result)
+
+response = gemini_client.generate_text(prompt=max_payload)
+print("\n", max_query, ":", response.result)
+
