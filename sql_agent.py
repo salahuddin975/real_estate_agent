@@ -31,11 +31,12 @@ class SQLAgent:
         )
 
         metadata.create_all(self.engine)                             # Create the table in the database
-        df.to_sql('house_listings', self.engine, if_exists='append', index=False)            # Insert data into the table
+        df.to_sql('house_listings', self.engine, if_exists='replace', index=False)            # Insert data into the table
+
 
     def execute_query(self, sql_query):
         result = pd.read_sql(sql_query, self.engine)
-        return result        
+        return result['ID'].values        
     
 
 if __name__ == "__main__":
