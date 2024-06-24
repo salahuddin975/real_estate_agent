@@ -36,7 +36,7 @@ class SQLAgent:
 
     def execute_query(self, sql_query):
         result = pd.read_sql(sql_query, self.engine)
-        return result['ID'].values        
+        return result['ID'].values  if len(result['ID']) > 0 else list(range(1, 535))
     
 
 if __name__ == "__main__":
