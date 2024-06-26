@@ -6,11 +6,11 @@ from cosine_reranker import CosineReranker
 
 
 class Reranker:
-    def __init__(self, csv_file_path) -> None:
+    def __init__(self, csv_file_path, transformer_based_clip_model) -> None:
         self.df = pd.read_csv(csv_file_path)
         
         self.engine = create_engine('sqlite:///houses.db')
-        self.cosineReranker = CosineReranker()
+        self.cosineReranker = CosineReranker(transformer_based_clip_model)
 
 
     def rank_by_profit(self, ids):
@@ -51,14 +51,14 @@ class Reranker:
         sql_records = sql_records_df.apply(lambda row: ' '.join(row.values.astype(str)), axis=1).tolist()
 
         # Get record embeddings
-        record_embeddings = self.cosineReranker.record_embedder.embed(sql_records)             
+        sql_embeddings = self.cosineReranker.sql_embedder.embed(sql_records)             
         
         # Get CLIP image embeddings for the fetched records
         ids = sql_records_df['ID'].astype(str).tolist()                                         
         # filtered_ids, clip_image_embeddings = image_embedding_agent_tool(clip_query, ids)
         
         # Filter the record_embeddings to include only those that match the top 5 ids
-        filtered_record_embeddings = [record_embeddings[ids.index(id)] for id in filtered_ids]
+        filtered_record_embeddings = [sql_embeddings[ids.index(id)] for id in filtered_ids]
         filtered_record_embeddings = np.array(filtered_record_embeddings)
         
         # Embed the SQL and CLIP queries

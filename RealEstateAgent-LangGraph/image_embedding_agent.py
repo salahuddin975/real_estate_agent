@@ -21,10 +21,10 @@ from matplotlib import pyplot as plt
 
 
 class ImageEmbeddingAgent:
-    def __init__(self, image_dataset_path, csv_file_path) -> None:
+    def __init__(self, image_dataset_path, csv_file_path, chromadb_based_clip_model) -> None:
         chroma_client = chromadb.PersistentClient(path='chroma_vectordb')
         image_loader = ImageLoader()
-        multimodal_ef = OpenCLIPEmbeddingFunction()
+        multimodal_ef = OpenCLIPEmbeddingFunction(model_name=chromadb_based_clip_model)
 
         self.vector_db = chroma_client.get_or_create_collection(name="vector_db", embedding_function=multimodal_ef, data_loader=image_loader)
         self._load_information(image_dataset_path, csv_file_path)
@@ -63,7 +63,7 @@ class ImageEmbeddingAgent:
 
     def _add_or_update_collection(self):  
         try:
-            self.vector_db.add(             # add: to add first time, update: to use update later
+            self.vector_db.update(             # add: to add first time, update: to use update later
                 ids=self.ids,
                 uris=self.uris,
                 metadatas=self.metadatas
