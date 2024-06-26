@@ -1,0 +1,536 @@
+ID,bedrooms,bathrooms,living_space,address,city,state,zipcode,latitude,longitude,property_url,price
+1,3,3,1706.0,"10615 Sara Bear Ln, Truckee, CA 96161",Truckee,CA,96161,39.32298,-120.174446,https://www.zillow.com/homedetails/10615-Sara-Bear-Ln-Truckee-CA-96161/114451084_zpid/,1275000.0
+2,5,3,2142.0,"11553 E Ridge Rd, Truckee, CA 96161",Truckee,CA,96161,39.33503,-120.15787,https://www.zillow.com/homedetails/11553-E-Ridge-Rd-Truckee-CA-96161/19434659_zpid/,949900.0
+3,4,2,2362.0,"11265 Mount Rose View Dr, Truckee, CA 96161",Truckee,CA,96161,39.363483,-120.15161,https://www.zillow.com/homedetails/11265-Mount-Rose-View-Dr-Truckee-CA-96161/250176149_zpid/,1475000.0
+4,4,2,1552.0,"11862 Rio Vista Dr, Truckee, CA 96161",Truckee,CA,96161,39.31592,-120.194115,https://www.zillow.com/homedetails/11862-Rio-Vista-Dr-Truckee-CA-96161/17694705_zpid/,850000.0
+5,4,2,1690.0,"2538 Elwood Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.922966,-119.984344,https://www.zillow.com/homedetails/2538-Elwood-Ave-South-Lake-Tahoe-CA-96150/195375512_zpid/,699000.0
+6,4,4,3192.0,"2164 Catalina Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.93268,-120.00925,https://www.zillow.com/homedetails/2164-Catalina-Dr-South-Lake-Tahoe-CA-96150/18570844_zpid/,2895000.0
+7,3,2,1104.0,"2530 William Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92329,-119.98516,https://www.zillow.com/homedetails/2530-William-Ave-South-Lake-Tahoe-CA-96150/18579734_zpid/,642000.0
+8,3,2,1710.0,"2148 Albert Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.925377,-120.01524,https://www.zillow.com/homedetails/2148-Albert-Ave-South-Lake-Tahoe-CA-96150/18572743_zpid/,799000.0
+9,3,3,1412.0,"3020 Fresno Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.937847,-119.98566,https://www.zillow.com/homedetails/3020-Fresno-Ave-South-Lake-Tahoe-CA-96150/195371730_zpid/,995000.0
+10,2,2,1280.0,"2356 Sky Meadows Ct, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.922733,-119.995255,https://www.zillow.com/homedetails/2356-Sky-Meadows-Ct-South-Lake-Tahoe-CA-96150/18573978_zpid/,575000.0
+11,3,2,1281.0,"2071 Venice Dr #296, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.928127,-120.012535,https://www.zillow.com/homedetails/2071-Venice-Dr-296-South-Lake-Tahoe-CA-96150/18571277_zpid/,810000.0
+12,5,5,3154.0,"1180 Herbert Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.940872,-119.96092,https://www.zillow.com/homedetails/1180-Herbert-Ave-South-Lake-Tahoe-CA-96150/83903318_zpid/,999000.0
+13,3,2,1196.0,"803 Michael Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92576,-119.99942,https://www.zillow.com/homedetails/803-Michael-Dr-South-Lake-Tahoe-CA-96150/111912809_zpid/,739000.0
+14,10,6,4084.0,"1309 Peninsula Rd, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.938957,-119.95651,https://www.zillow.com/homedetails/1309-Peninsula-Rd-South-Lake-Tahoe-CA-96150/195369008_zpid/,1099000.0
+15,2,1,838.0,"3739 Pioneer Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.94686,-119.94975,https://www.zillow.com/homedetails/3739-Pioneer-Trl-South-Lake-Tahoe-CA-96150/18577454_zpid/,450000.0
+16,2,1,1000.0,"894 Lapham Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.918987,-120.00637,https://www.zillow.com/homedetails/894-Lapham-Dr-South-Lake-Tahoe-CA-96150/18573861_zpid/,539900.0
+17,3,2,1150.0,"2525 Armstrong Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92249,-119.98452,https://www.zillow.com/homedetails/2525-Armstrong-Ave-South-Lake-Tahoe-CA-96150/18579759_zpid/,399000.0
+18,3,3,1958.0,"2265 Sierra House Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.899574,-119.9579,https://www.zillow.com/homedetails/2265-Sierra-House-Trl-South-Lake-Tahoe-CA-96150/18575587_zpid/,875000.0
+19,3,2,1940.0,"3535 Lake Tahoe Blvd #623, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.947872,-119.9615,https://www.zillow.com/homedetails/3535-Lake-Tahoe-Blvd-623-South-Lake-Tahoe-CA-96150/18578173_zpid/,2995000.0
+20,3,2,1274.0,"912 Council Rock Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.9208,-119.999886,https://www.zillow.com/homedetails/912-Council-Rock-Dr-South-Lake-Tahoe-CA-96150/18573328_zpid/,630000.0
+21,4,3,3436.0,"2556 Palmira Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.924927,-119.9853,https://www.zillow.com/homedetails/2556-Palmira-Ave-South-Lake-Tahoe-CA-96150/18579589_zpid/,989999.0
+22,2,1,1040.0,"2234 Barton Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.91762,-119.99589,https://www.zillow.com/homedetails/2234-Barton-Ave-South-Lake-Tahoe-CA-96150/18572292_zpid/,559900.0
+23,3,2,1160.0,"1200 Wildwood Ave #41, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.944508,-119.949905,https://www.zillow.com/homedetails/1200-Wildwood-Ave-41-South-Lake-Tahoe-CA-96150/18578674_zpid/,425000.0
+24,2,1,1161.0,"3343 Marlette Cir, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.939423,-119.970055,https://www.zillow.com/homedetails/3343-Marlette-Cir-South-Lake-Tahoe-CA-96150/18574630_zpid/,525000.0
+25,3,2,1674.0,"1066 Johnson Blvd, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.943417,-119.966995,https://www.zillow.com/homedetails/1066-Johnson-Blvd-South-Lake-Tahoe-CA-96150/18577823_zpid/,745000.0
+26,3,3,1644.0,"880 Los Angeles Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.93864,-119.981834,https://www.zillow.com/homedetails/880-Los-Angeles-Ave-South-Lake-Tahoe-CA-96150/18576621_zpid/,878000.0
+27,2,2,1044.0,"1200 Wildwood Ave #18, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.944508,-119.949905,https://www.zillow.com/homedetails/1200-Wildwood-Ave-18-South-Lake-Tahoe-CA-96150/18578651_zpid/,375000.0
+28,4,3,1722.0,"1617 Andy Jo Cir, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92873,-119.95624,https://www.zillow.com/homedetails/1617-Andy-Jo-Cir-South-Lake-Tahoe-CA-96150/18574988_zpid/,648000.0
+29,4,3,2798.0,"1377 Tata Ln, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.899914,-120.0017,https://www.zillow.com/homedetails/1377-Tata-Ln-South-Lake-Tahoe-CA-96150/95036722_zpid/,1528000.0
+30,4,3,2008.0,"2004 Venice Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92774,-120.01546,https://www.zillow.com/homedetails/2004-Venice-Dr-South-Lake-Tahoe-CA-96150/18571857_zpid/,1699000.0
+31,3,3,1752.0,"1599 Glenwood Way, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.928413,-119.95865,https://www.zillow.com/homedetails/1599-Glenwood-Way-South-Lake-Tahoe-CA-96150/18574971_zpid/,650000.0
+32,3,2,1343.0,"2081 Venice Dr APT 290, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.928596,-120.01209,https://www.zillow.com/homedetails/2081-Venice-Dr-APT-290-South-Lake-Tahoe-CA-96150/18571540_zpid/,825000.0
+33,4,2,1850.0,"2312 Idaho Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.924263,-119.99873,https://www.zillow.com/homedetails/2312-Idaho-Ave-South-Lake-Tahoe-CA-96150/18573534_zpid/,798000.0
+34,2,2,1372.0,"962 San Jose Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.942776,-119.9788,https://www.zillow.com/homedetails/962-San-Jose-Ave-South-Lake-Tahoe-CA-96150/2064292132_zpid/,455000.0
+35,3,2,1501.0,"958 San Jose Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.94276,-119.97894,https://www.zillow.com/homedetails/958-San-Jose-Ave-South-Lake-Tahoe-CA-96150/2064292131_zpid/,510000.0
+36,2,1,988.0,"2529 Kubel Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.920567,-119.98221,https://www.zillow.com/homedetails/2529-Kubel-Ave-South-Lake-Tahoe-CA-96150/18580186_zpid/,549000.0
+37,4,3,2082.0,"910 Rubicon Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.929375,-119.985504,https://www.zillow.com/homedetails/910-Rubicon-Trl-South-Lake-Tahoe-CA-96150/18580811_zpid/,885000.0
+38,3,3,2619.0,"870 Clement St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.913643,-120.01273,https://www.zillow.com/homedetails/870-Clement-St-South-Lake-Tahoe-CA-96150/83901345_zpid/,1100000.0
+39,2,2,1397.0,"2240 Columbine Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.899345,-119.96578,https://www.zillow.com/homedetails/2240-Columbine-Trl-South-Lake-Tahoe-CA-96150/18575758_zpid/,875000.0
+40,4,3,2368.0,"2317 Sutter Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.901443,-119.959694,https://www.zillow.com/homedetails/2317-Sutter-Trl-South-Lake-Tahoe-CA-96150/18575530_zpid/,995000.0
+41,3,2,1136.0,"2575 Bertha Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.922604,-119.98174,https://www.zillow.com/homedetails/2575-Bertha-Ave-South-Lake-Tahoe-CA-96150/18579997_zpid/,650000.0
+42,3,2,1161.0,"1171 Herbert Ave #C, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.941444,-119.96012,https://www.zillow.com/homedetails/1171-Herbert-Ave-C-South-Lake-Tahoe-CA-96150/18575450_zpid/,438000.0
+43,4,2,2554.0,"1181 Gold Dust Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.902077,-119.977066,https://www.zillow.com/homedetails/1181-Gold-Dust-Trl-South-Lake-Tahoe-CA-96150/18600864_zpid/,995000.0
+44,2,1,1007.0,"2652 Pinter Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92146,-119.97621,https://www.zillow.com/homedetails/2652-Pinter-Ave-South-Lake-Tahoe-CA-96150/18580570_zpid/,550000.0
+45,2,1,786.0,"2579 Fountain Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.91962,-119.9785,https://www.zillow.com/homedetails/2579-Fountain-Ave-South-Lake-Tahoe-CA-96150/18580519_zpid/,499000.0
+46,2,1,912.0,"748 Roger Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.91834,-120.01349,https://www.zillow.com/homedetails/748-Roger-Ave-South-Lake-Tahoe-CA-96150/18572243_zpid/,534000.0
+47,4,3,2458.0,"1019 Turnback Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.903683,-119.98397,https://www.zillow.com/homedetails/1019-Turnback-Trl-South-Lake-Tahoe-CA-96150/95386965_zpid/,1488800.0
+48,2,1,894.0,"2462 Palmira Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92282,-119.98848,https://www.zillow.com/homedetails/2462-Palmira-Ave-South-Lake-Tahoe-CA-96150/18579558_zpid/,500000.0
+49,2,2,1318.0,"863 Tahoe Keys Blvd, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.922398,-119.99977,https://www.zillow.com/homedetails/863-Tahoe-Keys-Blvd-South-Lake-Tahoe-CA-96150/18574130_zpid/,525000.0
+50,3,2,1212.0,"2223 Washington Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.9215,-120.00088,https://www.zillow.com/homedetails/2223-Washington-Ave-South-Lake-Tahoe-CA-96150/18573366_zpid/,649999.0
+51,4,2,1486.0,"1677 Glenwood Way, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92758,-119.95529,https://www.zillow.com/homedetails/1677-Glenwood-Way-South-Lake-Tahoe-CA-96150/18575003_zpid/,575000.0
+52,2,1,908.0,"1258 Dedi Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.903294,-120.00398,https://www.zillow.com/homedetails/1258-Dedi-Ave-South-Lake-Tahoe-CA-96150/18581373_zpid/,450000.0
+53,3,2,1462.0,"439 Ala Wai Blvd APT 115, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.9353,-120.00451,https://www.zillow.com/homedetails/439-Ala-Wai-Blvd-APT-115-South-Lake-Tahoe-CA-96150/18571900_zpid/,749000.0
+54,3,2,1560.0,"1103 Sundown Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.904953,-119.979965,https://www.zillow.com/homedetails/1103-Sundown-Trl-South-Lake-Tahoe-CA-96150/18600783_zpid/,878000.0
+55,2,2,1750.0,"1080 Julie Ln SPACE 227, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.907677,-120.01188,https://www.zillow.com/homedetails/1080-Julie-Ln-SPACE-227-South-Lake-Tahoe-CA-96150/325572456_zpid/,298000.0
+56,2,1,832.0,"1281 Bonanza Ave APT 2, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.90378,-120.0003,https://www.zillow.com/homedetails/1281-Bonanza-Ave-APT-2-South-Lake-Tahoe-CA-96150/18581547_zpid/,299000.0
+57,4,2,1530.0,"1512 Murietta Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92576,-119.961876,https://www.zillow.com/homedetails/1512-Murietta-Dr-South-Lake-Tahoe-CA-96150/18575867_zpid/,745000.0
+58,3,1,1216.0,"2492 Armstrong Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.9215,-119.98525,https://www.zillow.com/homedetails/2492-Armstrong-Ave-South-Lake-Tahoe-CA-96150/18579891_zpid/,550000.0
+59,4,4,3752.0,"3748 Terrace Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.940613,-119.94777,https://www.zillow.com/homedetails/3748-Terrace-Dr-South-Lake-Tahoe-CA-96150/18578450_zpid/,1350000.0
+60,5,5,3241.0,"2205 Inverness Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.93277,-120.00709,https://www.zillow.com/homedetails/2205-Inverness-Dr-South-Lake-Tahoe-CA-96150/18570821_zpid/,3888000.0
+61,3,2,1698.0,"1520 Horace Greeley Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.91493,-119.96877,https://www.zillow.com/homedetails/1520-Horace-Greeley-Ave-South-Lake-Tahoe-CA-96150/89468330_zpid/,799000.0
+62,2,1,841.0,"1223 Bonanza Ave APT 34, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.90577,-120.00144,https://www.zillow.com/homedetails/1223-Bonanza-Ave-APT-34-South-Lake-Tahoe-CA-96150/18581541_zpid/,325000.0
+63,3,2,2008.0,"2655 Chris Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.926796,-119.98187,https://www.zillow.com/homedetails/2655-Chris-Ave-South-Lake-Tahoe-CA-96150/18579656_zpid/,750000.0
+64,2,2,832.0,"1410 Ski Run Blvd #14, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.936333,-119.9493,https://www.zillow.com/homedetails/1410-Ski-Run-Blvd-14-South-Lake-Tahoe-CA-96150/18575881_zpid/,459999.0
+65,3,2,1344.0,"2270 Montana Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92412,-120.00086,https://www.zillow.com/homedetails/2270-Montana-Ave-South-Lake-Tahoe-CA-96150/18573586_zpid/,600000.0
+66,3,1,1096.0,"3743 Alder Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.94781,-119.95225,https://www.zillow.com/homedetails/3743-Alder-Ave-South-Lake-Tahoe-CA-96150/18577336_zpid/,499000.0
+67,3,3,1522.0,"497 Tahoe Keys Blvd APT 43, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.932854,-120.00431,https://www.zillow.com/homedetails/497-Tahoe-Keys-Blvd-APT-43-South-Lake-Tahoe-CA-96150/18572035_zpid/,849000.0
+68,2,2,1536.0,"1080 Julie Ln SPC 71, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.907677,-120.01188,https://www.zillow.com/homedetails/1080-Julie-Ln-SPC-71-South-Lake-Tahoe-CA-96150/2111125290_zpid/,150000.0
+69,3,2,1360.0,"2336 Oregon Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92391,-119.996994,https://www.zillow.com/homedetails/2336-Oregon-Ave-South-Lake-Tahoe-CA-96150/18573503_zpid/,749000.0
+70,2,2,1158.0,"2480 Palmira Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.923256,-119.98796,https://www.zillow.com/homedetails/2480-Palmira-Ave-South-Lake-Tahoe-CA-96150/18579566_zpid/,560000.0
+71,1,1,702.0,"439 Ala Wai Blvd APT 108, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.9353,-120.00451,https://www.zillow.com/homedetails/439-Ala-Wai-Blvd-APT-108-South-Lake-Tahoe-CA-96150/18571520_zpid/,389000.0
+72,5,6,3887.0,"2201 Catalina Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.933613,-120.00803,https://www.zillow.com/homedetails/2201-Catalina-Dr-South-Lake-Tahoe-CA-96150/18570855_zpid/,3499000.0
+73,4,3,1462.0,"3787 Forest Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.949158,-119.951004,https://www.zillow.com/homedetails/3787-Forest-Ave-South-Lake-Tahoe-CA-96150/18577179_zpid/,699000.0
+74,3,1,1064.0,"816 Jeffery St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92341,-120.001526,https://www.zillow.com/homedetails/816-Jeffery-St-South-Lake-Tahoe-CA-96150/18574149_zpid/,620000.0
+75,5,6,4349.0,"2140 White Sands Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.934734,-120.01333,https://www.zillow.com/homedetails/2140-White-Sands-Dr-South-Lake-Tahoe-CA-96150/18571948_zpid/,5990000.0
+76,4,2,1728.0,"789 Tahoe Island Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92384,-120.00936,https://www.zillow.com/homedetails/789-Tahoe-Island-Dr-South-Lake-Tahoe-CA-96150/18573150_zpid/,739000.0
+77,5,4,2960.0,"1340 Wildwood Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.94015,-119.94618,https://www.zillow.com/homedetails/1340-Wildwood-Ave-South-Lake-Tahoe-CA-96150/18578443_zpid/,1435000.0
+78,3,3,2470.0,"2066 Slalom Ct, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.93008,-120.012825,https://www.zillow.com/homedetails/2066-Slalom-Ct-South-Lake-Tahoe-CA-96150/79794626_zpid/,1598000.0
+79,3,2,1547.0,"2278 Wyoming Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.923813,-120.0001,https://www.zillow.com/homedetails/2278-Wyoming-Ave-South-Lake-Tahoe-CA-96150/18573560_zpid/,665000.0
+80,3,2,1344.0,"3740 Blackwood Rd #41, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.938164,-119.95596,https://www.zillow.com/homedetails/3740-Blackwood-Rd-41-South-Lake-Tahoe-CA-96150/2066516071_zpid/,199990.0
+81,2,2,840.0,"3740 Blackwood Rd #33, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.938164,-119.95596,https://www.zillow.com/homedetails/3740-Blackwood-Rd-33-South-Lake-Tahoe-CA-96150/2066519042_zpid/,149990.0
+82,2,1,828.0,"2528 Kubel Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.920273,-119.98189,https://www.zillow.com/homedetails/2528-Kubel-Ave-South-Lake-Tahoe-CA-96150/18580207_zpid/,470000.0
+83,3,3,2286.0,"2989 Fresno Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.936687,-119.98591,https://www.zillow.com/homedetails/2989-Fresno-Ave-South-Lake-Tahoe-CA-96150/69234079_zpid/,1490000.0
+84,2,2,1596.0,"1154 Golden Bear Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.90378,-119.976555,https://www.zillow.com/homedetails/1154-Golden-Bear-Trl-South-Lake-Tahoe-CA-96150/18600879_zpid/,649950.0
+85,1,1,567.0,"856 Stateline Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.961,-119.94715,https://www.zillow.com/homedetails/856-Stateline-Ave-South-Lake-Tahoe-CA-96150/18578873_zpid/,795000.0
+86,6,4,2436.0,"2492 Palmira Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.923557,-119.987366,https://www.zillow.com/homedetails/2492-Palmira-Ave-South-Lake-Tahoe-CA-96150/195375276_zpid/,770000.0
+87,7,6,2879.0,"3121 Pasadena Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.941795,-119.98043,https://www.zillow.com/homedetails/3121-Pasadena-Ave-South-Lake-Tahoe-CA-96150/2140554560_zpid/,1150000.0
+88,4,3,3136.0,"741 Lakeview Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.94353,-119.988754,https://www.zillow.com/homedetails/741-Lakeview-Ave-South-Lake-Tahoe-CA-96150/18575974_zpid/,4250000.0
+89,3,3,1253.0,"1129 Martin Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.924778,-119.97859,https://www.zillow.com/homedetails/1129-Martin-Ave-South-Lake-Tahoe-CA-96150/195375900_zpid/,649950.0
+90,4,2,2068.0,"2290 Marshall Trl, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.900997,-119.96489,https://www.zillow.com/homedetails/2290-Marshall-Trl-South-Lake-Tahoe-CA-96150/18575773_zpid/,899000.0
+91,4,3,1483.0,"708 Tahoe Island Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.924953,-120.012505,https://www.zillow.com/homedetails/708-Tahoe-Island-Dr-South-Lake-Tahoe-CA-96150/18573084_zpid/,629900.0
+92,4,3,2560.0,"875 Clement St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.91411,-120.012115,https://www.zillow.com/homedetails/875-Clement-St-South-Lake-Tahoe-CA-96150/18572627_zpid/,899000.0
+93,2,2,1080.0,"3591 Bill Ave, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.946247,-119.95944,https://www.zillow.com/homedetails/3591-Bill-Ave-South-Lake-Tahoe-CA-96150/195372427_zpid/,599000.0
+94,4,2,1512.0,"703-610 Termo Grasshopper Rd, Termo, CA 96132",Termo,CA,96132,40.81837,-120.58418,https://www.zillow.com/homedetails/703-610-Termo-Grasshopper-Rd-Termo-CA-96132/2065425583_zpid/,295000.0
+95,2,2,960.0,"308 Main St, Calpine, CA 96124",Calpine,CA,96124,39.665066,-120.44123,https://www.zillow.com/homedetails/308-Main-St-Calpine-CA-96124/15253199_zpid/,215000.0
+96,2,2,960.0,"308 Main St #1, Calpine, CA 96124",Calpine,CA,96124,39.665066,-120.44123,https://www.zillow.com/homedetails/308-Main-St-1-Calpine-CA-96124/2064139723_zpid/,215000.0
+97,1,1,1296.0,"107 Sierra Dr, Calpine, CA 96124",Calpine,CA,96124,39.66271,-120.44398,https://www.zillow.com/homedetails/107-Sierra-Dr-Calpine-CA-96124/15253322_zpid/,495000.0
+98,2,1,742.0,"318 Coates Ave #1, Calpine, CA 96124",Calpine,CA,96124,39.665405,-120.44271,https://www.zillow.com/homedetails/318-Coates-Ave-1-Calpine-CA-96124/2064331651_zpid/,245000.0
+99,2,1,742.0,"318 Coates Ave, Calpine, CA 96124",Calpine,CA,96124,39.665405,-120.44271,https://www.zillow.com/homedetails/318-Coates-Ave-Calpine-CA-96124/15253180_zpid/,245000.0
+100,2,1,1056.0,"721-721 Center Rd #655, Litchfield, CA 96117",Litchfield,CA,96117,40.383064,-120.38769,https://www.zillow.com/homedetails/721-721-Center-Rd-655-Litchfield-CA-96117/2065445155_zpid/,225000.0
+101,3,2,2580.0,"721-721 Center Rd #605, Litchfield, CA 96117",Litchfield,CA,96117,40.397266,-120.4693,https://www.zillow.com/homedetails/721-721-Center-Rd-605-Litchfield-CA-96117/2066487666_zpid/,450000.0
+102,3,2,1800.0,"205 Belfast Rd #480, Litchfield, CA 96117",Litchfield,CA,96117,40.439747,-120.45794,https://www.zillow.com/homedetails/205-Belfast-Rd-480-Litchfield-CA-96117/2066349137_zpid/,3333000.0
+103,2,2,1320.0,"133 Graeagle Meadows Rd #133, Blairsden Graeagle, CA 96103",Blairsden Graeagle,CA,96103,39.764343,-120.61196,https://www.zillow.com/homedetails/133-Graeagle-Meadows-Rd-133-Blairsden-Graeagle-CA-96103/2064102426_zpid/,410000.0
+104,3,3,1536.0,"59854 Highway 70, Cromberg, CA 96103",Cromberg,CA,96103,39.858955,-120.69103,https://www.zillow.com/homedetails/59854-Highway-70-Cromberg-CA-96103/112412133_zpid/,629000.0
+105,4,3,2192.0,"69332 Porcupine Rd, Graeagle, CA 96103",Graeagle,CA,96103,39.778816,-120.58334,https://www.zillow.com/homedetails/69332-Porcupine-Rd-Graeagle-CA-96103/222965710_zpid/,489000.0
+106,2,2,1736.0,"58880 Don Nelson Ln, Cromberg, CA 96103",Cromberg,CA,96103,39.879696,-120.71149,https://www.zillow.com/homedetails/58880-Don-Nelson-Ln-Cromberg-CA-96103/125095438_zpid/,599000.0
+107,2,2,1314.0,"63 Graeagle Meadows Rd, Graeagle, CA 96103",Graeagle,CA,96103,39.764652,-120.61131,https://www.zillow.com/homedetails/63-Graeagle-Meadows-Rd-Graeagle-CA-96103/112419682_zpid/,398000.0
+108,4,2,2426.0,"69180 Porcupine Rd, Blairsden, CA 96103",Blairsden,CA,96103,39.77684,-120.583145,https://www.zillow.com/homedetails/69180-Porcupine-Rd-Blairsden-CA-96103/52927830_zpid/,545000.0
+109,4,3,2628.0,"58917 Old Stage Rd, Cromberg, CA 96103",Cromberg,CA,96103,39.876556,-120.715225,https://www.zillow.com/homedetails/58917-Old-Stage-Rd-Cromberg-CA-96103/299999991_zpid/,499000.0
+110,3,2,1371.0,"69440 Mohawk Vista Dr, Blairsden, CA 96103",Blairsden,CA,96103,39.77615,-120.5765,https://www.zillow.com/homedetails/69440-Mohawk-Vista-Dr-Blairsden-CA-96103/112428388_zpid/,369000.0
+111,7,5,6150.0,"1200 Golden Feather Ranch Rd, Blairsden Graeagle, CA 96103",Blairsden Graeagle,CA,96103,39.8628,-120.744354,https://www.zillow.com/homedetails/1200-Golden-Feather-Ranch-Rd-Blairsden-Graeagle-CA-96103/52927735_zpid/,3250000.0
+112,4,4,2072.0,"59230 Overload Rd, Cromberg, CA 96103",Cromberg,CA,96103,39.867996,-120.69763,https://www.zillow.com/homedetails/59230-Overload-Rd-Cromberg-CA-96103/241662213_zpid/,431500.0
+113,7,6,6000.0,"1200-1200 Golden Feather Ranch Rd #1101, Blairsden Graeagle, CA 96103",Blairsden Graeagle,CA,96103,39.862103,-120.73534,https://www.zillow.com/homedetails/1200-1200-Golden-Feather-Ranch-Rd-1101-Blairsden-Graeagle-CA-96103/2075662304_zpid/,3250000.0
+114,2,2,1362.0,"15 Sharron Ct, Weaverville, CA 96093",Weaverville,CA,96093,40.729763,-122.937065,https://www.zillow.com/homedetails/15-Sharron-Ct-Weaverville-CA-96093/334060081_zpid/,60000.0
+115,3,2,1260.0,"771 Elderberry Rd, Weaverville, CA 96093",Weaverville,CA,96093,40.715027,-122.89102,https://www.zillow.com/homedetails/771-Elderberry-Rd-Weaverville-CA-96093/2064100189_zpid/,725000.0
+116,2,2,2304.0,"1907 Union Ridge Rd, Weaverville, CA 96093",Weaverville,CA,96093,40.74783,-122.87442,https://www.zillow.com/homedetails/1907-Union-Ridge-Rd-Weaverville-CA-96093/334064289_zpid/,325000.0
+117,2,1,843.0,"21 Brooktree Way, Weaverville, CA 96093",Weaverville,CA,96093,40.729385,-122.946075,https://www.zillow.com/homedetails/21-Brooktree-Way-Weaverville-CA-96093/16208102_zpid/,249900.0
+118,3,2,2300.0,"45 Oak Shadow Rd, Weaverville, CA 96093",Weaverville,CA,96093,40.76464,-122.91592,https://www.zillow.com/homedetails/45-Oak-Shadow-Rd-Weaverville-CA-96093/2064356127_zpid/,449000.0
+119,2,2,1660.0,"35 Taylor St, Weaverville, CA 96093",Weaverville,CA,96093,40.735474,-122.93991,https://www.zillow.com/homedetails/35-Taylor-St-Weaverville-CA-96093/334060170_zpid/,339000.0
+120,2,1,1400.0,"211 Goa Way, Weaverville, CA 96093",Weaverville,CA,96093,40.81029,-122.88829,https://www.zillow.com/homedetails/211-Goa-Way-Weaverville-CA-96093/334061149_zpid/,399000.0
+121,4,2,2763.0,"80 Grandview Dr, Weaverville, CA 96093",Weaverville,CA,96093,40.725117,-122.9228,https://www.zillow.com/homedetails/80-Grandview-Dr-Weaverville-CA-96093/334063954_zpid/,545900.0
+122,3,2,1710.0,"948 Dutch Ln, Weaverville, CA 96093",Weaverville,CA,96093,40.726875,-122.971306,https://www.zillow.com/homedetails/948-Dutch-Ln-Weaverville-CA-96093/334064243_zpid/,675000.0
+123,4,1,1711.0,"180 Glen Rd, Weaverville, CA 96093",Weaverville,CA,96093,40.721184,-122.93212,https://www.zillow.com/homedetails/180-Glen-Rd-Weaverville-CA-96093/16213282_zpid/,285000.0
+124,1,1,1100.0,"10 Wild Rose Ln, Weaverville, CA 96093",Weaverville,CA,96093,40.7025,-122.94869,https://www.zillow.com/homedetails/10-Wild-Rose-Ln-Weaverville-CA-96093/334063725_zpid/,295000.0
+125,2,2,1176.0,"3660 Little Browns Creek Rd, Weaverville, CA 96093",Weaverville,CA,96093,40.73211,-122.89359,https://www.zillow.com/homedetails/3660-Little-Browns-Creek-Rd-Weaverville-CA-96093/2066518358_zpid/,375000.0
+126,3,2,1860.0,"121 Fairway Dr, Weaverville, CA 96093",Weaverville,CA,96093,40.719925,-122.931274,https://www.zillow.com/homedetails/121-Fairway-Dr-Weaverville-CA-96093/334064159_zpid/,420000.0
+127,2,1,900.0,"75 Hart St, Weaverville, CA 96093",Weaverville,CA,96093,40.727985,-122.947945,https://www.zillow.com/homedetails/75-Hart-St-Weaverville-CA-96093/2080438202_zpid/,250000.0
+128,2,2,1800.0,"211 Hanover St, Weaverville, CA 96093",Weaverville,CA,96093,40.73165,-122.94457,https://www.zillow.com/homedetails/211-Hanover-St-Weaverville-CA-96093/334060074_zpid/,343000.0
+129,3,2,1808.0,"110 Boudreaux Rd, Weaverville, CA 96093",Weaverville,CA,96093,40.71609,-122.92368,https://www.zillow.com/homedetails/110-Boudreaux-Rd-Weaverville-CA-96093/16213341_zpid/,395000.0
+130,3,2,2700.0,"81 Squires Ln, Weaverville, CA 96093",Weaverville,CA,96093,40.742325,-122.92123,https://www.zillow.com/homedetails/81-Squires-Ln-Weaverville-CA-96093/2069793974_zpid/,899000.0
+131,3,4,3055.0,"131 E Weaver Creek Rd, Weaverville, CA 96093",Weaverville,CA,96093,40.75368,-122.918976,https://www.zillow.com/homedetails/131-E-Weaver-Creek-Rd-Weaverville-CA-96093/16209884_zpid/,580000.0
+132,3,2,1378.0,"52331 Highway 96, Seiad Valley, CA 96086",Seiad Valley,CA,96086,41.86663,-123.3113,https://www.zillow.com/homedetails/52331-Highway-96-Seiad-Valley-CA-96086/15968813_zpid/,220000.0
+133,2,2,2100.0,"732 Grider Creek Rd, Seiad Valley, CA 96086",Seiad Valley,CA,96086,41.82777,-123.182495,https://www.zillow.com/homedetails/732-Grider-Creek-Rd-Seiad-Valley-CA-96086/15968534_zpid/,529000.0
+134,3,3,1840.0,"5614 Deer Creek Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.36854,-122.40063,https://www.zillow.com/homedetails/5614-Deer-Creek-Rd-Mount-Shasta-CA-96067/15971409_zpid/,525000.0
+135,3,2,1332.0,"205 Perry Ave, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.30757,-122.309105,https://www.zillow.com/homedetails/205-Perry-Ave-Mount-Shasta-CA-96067/15979980_zpid/,412000.0
+136,3,1,1204.0,"213 Merritt Ave, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.306694,-122.30866,https://www.zillow.com/homedetails/213-Merritt-Ave-Mount-Shasta-CA-96067/15980012_zpid/,339000.0
+137,3,2,1788.0,"835 Davis Place Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.340813,-122.359924,https://www.zillow.com/homedetails/835-Davis-Place-Rd-Mount-Shasta-CA-96067/15973652_zpid/,575000.0
+138,4,3,3240.0,"1710 Eddy Dr, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.303043,-122.29137,https://www.zillow.com/homedetails/1710-Eddy-Dr-Mount-Shasta-CA-96067/15974827_zpid/,997000.0
+139,3,2,1836.0,"2725 Pine Grove Dr, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.336285,-122.34562,https://www.zillow.com/homedetails/2725-Pine-Grove-Dr-Mount-Shasta-CA-96067/300012316_zpid/,629500.0
+140,3,2,2196.0,"1615 Shasta Acres Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.314053,-122.28787,https://www.zillow.com/homedetails/1615-Shasta-Acres-Rd-Mount-Shasta-CA-96067/15974767_zpid/,659000.0
+141,3,2,2016.0,"1536 N Old Stage Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.32499,-122.34407,https://www.zillow.com/homedetails/1536-N-Old-Stage-Rd-Mount-Shasta-CA-96067/15973827_zpid/,569000.0
+142,3,2,1835.0,"2338 Jakes Pl, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.279556,-122.31191,https://www.zillow.com/homedetails/2338-Jakes-Pl-Mount-Shasta-CA-96067/15974431_zpid/,259000.0
+143,4,3,1980.0,"4631 N Old Stage Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.35573,-122.376076,https://www.zillow.com/homedetails/4631-N-Old-Stage-Rd-Mount-Shasta-CA-96067/15971350_zpid/,519000.0
+144,3,3,2346.0,"190 Kinkade Ct, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.3447,-122.32037,https://www.zillow.com/homedetails/190-Kinkade-Ct-Mount-Shasta-CA-96067/300005693_zpid/,775000.0
+145,4,2,2400.0,"618 Wisner Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.331963,-122.34512,https://www.zillow.com/homedetails/618-Wisner-Rd-Mount-Shasta-CA-96067/15973728_zpid/,499000.0
+146,3,3,1348.0,"1543 Village Way, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.298557,-122.30314,https://www.zillow.com/homedetails/1543-Village-Way-Mount-Shasta-CA-96067/15980644_zpid/,449000.0
+147,3,3,2167.0,"1517 Eddy Dr, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.304443,-122.2952,https://www.zillow.com/homedetails/1517-Eddy-Dr-Mount-Shasta-CA-96067/15974806_zpid/,639000.0
+148,3,2,1646.0,"819 Butte Ave, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.325092,-122.30763,https://www.zillow.com/homedetails/819-Butte-Ave-Mount-Shasta-CA-96067/15974704_zpid/,398000.0
+149,3,3,2037.0,"1533 W A Barr Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.291386,-122.32226,https://www.zillow.com/homedetails/1533-W-A-Barr-Rd-Mount-Shasta-CA-96067/15974399_zpid/,479000.0
+150,3,2,1132.0,"1955 Susquehana Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.89034,-119.97964,https://www.zillow.com/homedetails/1955-Susquehana-Dr-South-Lake-Tahoe-CA-96150/18600526_zpid/,659000.0
+151,4,3,2280.0,"3852 Private Rd, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.941906,-119.942535,https://www.zillow.com/homedetails/3852-Private-Rd-South-Lake-Tahoe-CA-96150/18578820_zpid/,1199000.0
+152,4,2,1176.0,"619 Everitt Memorial Hwy, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.320156,-122.30669,https://www.zillow.com/homedetails/619-Everitt-Memorial-Hwy-Mount-Shasta-CA-96067/15980260_zpid/,389000.0
+153,3,1,1144.0,"1766 Southern Pines Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.86161,-120.00877,https://www.zillow.com/homedetails/1766-Southern-Pines-Dr-South-Lake-Tahoe-CA-96150/18584661_zpid/,629000.0
+154,4,3,2997.0,"1540 Highland Dr, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.32763,-122.33767,https://www.zillow.com/homedetails/1540-Highland-Dr-Mount-Shasta-CA-96067/15974253_zpid/,650000.0
+155,3,2,1600.0,"1522 Tionontati St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.869938,-119.9958,https://www.zillow.com/homedetails/1522-Tionontati-St-South-Lake-Tahoe-CA-96150/18601036_zpid/,829000.0
+156,3,3,1478.0,"1209 Timber Ln, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.946144,-119.94256,https://www.zillow.com/homedetails/1209-Timber-Ln-South-Lake-Tahoe-CA-96150/18578802_zpid/,999000.0
+157,4,3,1858.0,"1861 Weir Way, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.927902,-120.02161,https://www.zillow.com/homedetails/1861-Weir-Way-South-Lake-Tahoe-CA-96150/18571848_zpid/,998000.0
+158,3,2,1152.0,"1851 Susquehana Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.893215,-119.97696,https://www.zillow.com/homedetails/1851-Susquehana-Dr-South-Lake-Tahoe-CA-96150/18600469_zpid/,670000.0
+159,4,3,2380.0,"557 Anita Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.92583,-120.017876,https://www.zillow.com/homedetails/557-Anita-Dr-South-Lake-Tahoe-CA-96150/18572665_zpid/,1349000.0
+160,3,2,975.0,"508 McCloud Ave, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.3126,-122.3051,https://www.zillow.com/homedetails/508-McCloud-Ave-Mount-Shasta-CA-96067/15980069_zpid/,399000.0
+161,4,4,7564.0,"4620 W A Barr Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.274323,-122.36054,https://www.zillow.com/homedetails/4620-W-A-Barr-Rd-Mount-Shasta-CA-96067/69029115_zpid/,5999999.0
+162,3,3,2290.0,"1836 Grizzly Mountain Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.869053,-120.03649,https://www.zillow.com/homedetails/1836-Grizzly-Mountain-Dr-South-Lake-Tahoe-CA-96150/18582159_zpid/,925000.0
+163,3,2,1588.0,"615 Big Canyon Dr, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.281994,-122.29433,https://www.zillow.com/homedetails/615-Big-Canyon-Dr-Mount-Shasta-CA-96067/89037112_zpid/,495000.0
+164,2,1,816.0,"1890 Haidas Cir, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.855904,-120.00506,https://www.zillow.com/homedetails/1890-Haidas-Cir-South-Lake-Tahoe-CA-96150/18583427_zpid/,529000.0
+165,2,2,2639.0,"1707 Laura Marie Ln, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.329933,-122.3443,https://www.zillow.com/homedetails/1707-Laura-Marie-Ln-Mount-Shasta-CA-96067/89037518_zpid/,730000.0
+166,2,1,1024.0,"728 Nahane Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.836197,-120.02887,https://www.zillow.com/homedetails/728-Nahane-Dr-South-Lake-Tahoe-CA-96150/18585188_zpid/,649000.0
+167,4,4,3155.0,"1200 W A Barr Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.295322,-122.32221,https://www.zillow.com/homedetails/1200-W-A-Barr-Rd-Mount-Shasta-CA-96067/15974496_zpid/,935000.0
+168,2,2,2204.0,"400 Microwave Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.276752,-122.24267,https://www.zillow.com/homedetails/400-Microwave-Rd-Mount-Shasta-CA-96067/336925444_zpid/,314900.0
+169,3,2,1471.0,"1536 Oglala Ct, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.86053,-120.00096,https://www.zillow.com/homedetails/1536-Oglala-Ct-South-Lake-Tahoe-CA-96150/18584446_zpid/,799000.0
+170,3,3,2373.0,"1978 Kokanee Way, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.932007,-120.016815,https://www.zillow.com/homedetails/1978-Kokanee-Way-South-Lake-Tahoe-CA-96150/18571417_zpid/,1690000.0
+171,3,3,2730.0,"601 Spring Creek Rd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.316723,-122.32826,https://www.zillow.com/homedetails/601-Spring-Creek-Rd-Mount-Shasta-CA-96067/15973988_zpid/,865000.0
+172,5,4,2775.0,"1946 Nez Perce Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.859146,-120.038635,https://www.zillow.com/homedetails/1946-Nez-Perce-Dr-South-Lake-Tahoe-CA-96150/95425484_zpid/,1595000.0
+173,3,3,2420.0,"1835 Venice Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.929237,-120.02194,https://www.zillow.com/homedetails/1835-Venice-Dr-South-Lake-Tahoe-CA-96150/18571786_zpid/,2175000.0
+174,3,2,1728.0,"1724 Bakersfield St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.862183,-120.019646,https://www.zillow.com/homedetails/1724-Bakersfield-St-South-Lake-Tahoe-CA-96150/18584739_zpid/,789000.0
+175,5,3,3550.0,"600 N Mount Shasta Blvd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.316395,-122.31593,https://www.zillow.com/homedetails/600-N-Mount-Shasta-Blvd-Mount-Shasta-CA-96067/89036732_zpid/,475000.0
+176,4,2,1728.0,"580 Kiowa Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.863483,-120.039696,https://www.zillow.com/homedetails/580-Kiowa-Dr-South-Lake-Tahoe-CA-96150/18583076_zpid/,849999.0
+177,2,2,1060.0,"791 Zuni St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.872177,-120.03303,https://www.zillow.com/homedetails/791-Zuni-St-South-Lake-Tahoe-CA-96150/18582005_zpid/,635000.0
+178,2,2,1056.0,"1798 Saponi St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.862804,-119.99624,https://www.zillow.com/homedetails/1798-Saponi-St-South-Lake-Tahoe-CA-96150/18584543_zpid/,589000.0
+179,3,3,1708.0,"5243 Woodside Ct, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.36391,-122.39694,https://www.zillow.com/homedetails/5243-Woodside-Ct-Mount-Shasta-CA-96067/15971694_zpid/,589000.0
+180,2,1,1508.0,"1860 Toppewetah St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.86064,-120.03907,https://www.zillow.com/homedetails/1860-Toppewetah-St-South-Lake-Tahoe-CA-96150/18584080_zpid/,525000.0
+181,4,3,2720.0,"1424 Eddy Dr, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.30319,-122.29606,https://www.zillow.com/homedetails/1424-Eddy-Dr-Mount-Shasta-CA-96067/15974809_zpid/,850000.0
+182,3,4,4038.0,"533 Madison Dr, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.31855,-122.29312,https://www.zillow.com/homedetails/533-Madison-Dr-Mount-Shasta-CA-96067/63080937_zpid/,1490000.0
+183,3,2,1956.0,"1716 Pine Grove Dr, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.32852,-122.33284,https://www.zillow.com/homedetails/1716-Pine-Grove-Dr-Mount-Shasta-CA-96067/15973758_zpid/,550000.0
+184,1,1,480.0,"105 W Lake St, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.31252,-122.31238,https://www.zillow.com/homedetails/105-W-Lake-St-Mount-Shasta-CA-96067/89038195_zpid/,329000.0
+185,1,1,960.0,"219 N Mount Shasta Blvd, Mount Shasta, CA 96067",Mount Shasta,CA,96067,41.31272,-122.312065,https://www.zillow.com/homedetails/219-N-Mount-Shasta-Blvd-Mount-Shasta-CA-96067/2142478479_zpid/,547000.0
+186,3,2,1728.0,"1157 Watson St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.891212,-119.98399,https://www.zillow.com/homedetails/1157-Watson-St-South-Lake-Tahoe-CA-96150/18583193_zpid/,759000.0
+187,2,3,1511.0,"1258 Timber Ln, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.94471,-119.942856,https://www.zillow.com/homedetails/1258-Timber-Ln-South-Lake-Tahoe-CA-96150/18578707_zpid/,747000.0
+188,4,4,2657.0,"711 Panther Ln, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.914204,-120.020065,https://www.zillow.com/homedetails/711-Panther-Ln-South-Lake-Tahoe-CA-96150/95375174_zpid/,1498000.0
+189,3,3,2527.0,"1160 Tokochi St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.883152,-119.98637,https://www.zillow.com/homedetails/1160-Tokochi-St-South-Lake-Tahoe-CA-96150/18582733_zpid/,899000.0
+190,6,4,3315.0,"1896 Toppewetah St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.859547,-120.039665,https://www.zillow.com/homedetails/1896-Toppewetah-St-South-Lake-Tahoe-CA-96150/69234164_zpid/,1548000.0
+191,4,2,2016.0,"3825 Saddle Rd, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.937355,-119.94057,https://www.zillow.com/homedetails/3825-Saddle-Rd-South-Lake-Tahoe-CA-96150/18579371_zpid/,1100000.0
+192,3,2,1575.0,"2219 Blitzen Rd, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.847694,-120.02041,https://www.zillow.com/homedetails/2219-Blitzen-Rd-South-Lake-Tahoe-CA-96150/18584906_zpid/,599000.0
+193,2,2,1128.0,"1866 Apalachee Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.891945,-119.98592,https://www.zillow.com/homedetails/1866-Apalachee-Dr-South-Lake-Tahoe-CA-96150/18582843_zpid/,695000.0
+194,4,4,3100.0,"1050 Cheyenne Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.851925,-120.0175,https://www.zillow.com/homedetails/1050-Cheyenne-Dr-South-Lake-Tahoe-CA-96150/95410265_zpid/,1898000.0
+195,2,1,829.0,"13518 Willow Ln, Macdoel, CA 96058",Macdoel,CA,96058,41.583126,-121.913315,https://www.zillow.com/homedetails/13518-Willow-Ln-Macdoel-CA-96058/15970837_zpid/,60000.0
+196,3,2,1248.0,"3320 Sheep Mountain Rd, Macdoel, CA 96058",Macdoel,CA,96058,41.84765,-121.94381,https://www.zillow.com/homedetails/3320-Sheep-Mountain-Rd-Macdoel-CA-96058/69024105_zpid/,329000.0
+197,4,3,2615.0,"1635 Semat St, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.88442,-119.98986,https://www.zillow.com/homedetails/1635-Semat-St-South-Lake-Tahoe-CA-96150/95430756_zpid/,1429000.0
+198,3,2,1056.0,"825 Nahane Dr, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.836605,-120.02464,https://www.zillow.com/homedetails/825-Nahane-Dr-South-Lake-Tahoe-CA-96150/18585145_zpid/,585000.0
+199,3,2,935.0,"3861 Saddle Rd #10, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.93813,-119.93933,https://www.zillow.com/homedetails/3861-Saddle-Rd-10-South-Lake-Tahoe-CA-96150/18579426_zpid/,625000.0
+200,3,2,1180.0,"1741 Thunderbird Ct, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.874107,-119.99801,https://www.zillow.com/homedetails/1741-Thunderbird-Ct-South-Lake-Tahoe-CA-96150/18600977_zpid/,629000.0
+201,3,2,1664.0,"105 La Veta Way, Klamath River, CA 96050",Klamath River,CA,96050,41.86433,-122.7847,https://www.zillow.com/homedetails/105-La-Veta-Way-Klamath-River-CA-96050/15968322_zpid/,289000.0
+202,2,2,1200.0,"3930 McKinney Creek Rd, Horse Creek, CA 96050",Horse Creek,CA,96050,41.79908,-122.907715,https://www.zillow.com/homedetails/3930-McKinney-Creek-Rd-Horse-Creek-CA-96050/15968393_zpid/,599000.0
+203,3,2,1777.0,"3102 Middle Creek Ranch Rd, Horse Creek, CA 96050",Horse Creek,CA,96050,41.852962,-123.029236,https://www.zillow.com/homedetails/3102-Middle-Creek-Ranch-Rd-Horse-Creek-CA-96050/15968485_zpid/,399000.0
+204,5,3,2403.0,"1950 Marconi Way, South Lake Tahoe, CA 96150",South Lake Tahoe,CA,96150,38.93,-120.01733,https://www.zillow.com/homedetails/1950-Marconi-Way-South-Lake-Tahoe-CA-96150/18571395_zpid/,2295000.0
+205,3,2,1550.0,"17758 Doty Rd, Hat Creek, CA 96040",Hat Creek,CA,96040,40.80705,-121.51286,https://www.zillow.com/homedetails/17758-Doty-Rd-Hat-Creek-CA-96040/325585354_zpid/,322500.0
+206,3,2,1200.0,"41406 Lonquist Ln, Hat Creek, CA 96040",Hat Creek,CA,96040,40.812138,-121.50316,https://www.zillow.com/homedetails/41406-Lonquist-Ln-Hat-Creek-CA-96040/2069107925_zpid/,3999000.0
+207,3,2,1848.0,"14808 N Highway 3, Fort Jones, CA 96032",Fort Jones,CA,96032,41.615692,-122.79997,https://www.zillow.com/homedetails/14808-N-Highway-3-Fort-Jones-CA-96032/89036328_zpid/,350000.0
+208,3,2,1346.0,"12149 Main St, Fort Jones, CA 96032",Fort Jones,CA,96032,41.61095,-122.83978,https://www.zillow.com/homedetails/12149-Main-St-Fort-Jones-CA-96032/15978979_zpid/,276500.0
+209,3,2,2025.0,"12201 Rickey Ln, Fort Jones, CA 96032",Fort Jones,CA,96032,41.580734,-122.97526,https://www.zillow.com/homedetails/12201-Rickey-Ln-Fort-Jones-CA-96032/15972690_zpid/,475000.0
+210,2,3,2174.0,"4719 Lighthill Rd, Fort Jones, CA 96032",Fort Jones,CA,96032,41.594402,-122.90341,https://www.zillow.com/homedetails/4719-Lighthill-Rd-Fort-Jones-CA-96032/15972515_zpid/,475000.0
+211,3,3,2171.0,"14023 Mc Adams Creek Rd, Fort Jones, CA 96032",Fort Jones,CA,96032,41.63402,-122.832306,https://www.zillow.com/homedetails/14023-Mc-Adams-Creek-Rd-Fort-Jones-CA-96032/15969510_zpid/,675000.0
+212,3,2,1200.0,"6 Dale Ave, Fort Jones, CA 96032",Fort Jones,CA,96032,41.602657,-122.84625,https://www.zillow.com/homedetails/6-Dale-Ave-Fort-Jones-CA-96032/15979211_zpid/,154500.0
+213,3,2,1536.0,"13536 Quartz Valley Rd, Fort Jones, CA 96032",Fort Jones,CA,96032,41.599377,-122.972404,https://www.zillow.com/homedetails/13536-Quartz-Valley-Rd-Fort-Jones-CA-96032/15972654_zpid/,150000.0
+214,3,3,1932.0,"4525 Piney Wood Rd, Carnelian Bay, CA 96140",Carnelian Bay,CA,96140,39.21757,-120.09281,https://www.zillow.com/homedetails/4525-Piney-Wood-Rd-Carnelian-Bay-CA-96140/17698727_zpid/,1050000.0
+215,3,2,1518.0,"230 Dale Ave, Fort Jones, CA 96032",Fort Jones,CA,96032,41.602596,-122.84818,https://www.zillow.com/homedetails/230-Dale-Ave-Fort-Jones-CA-96032/15979223_zpid/,305000.0
+216,4,3,3248.0,"12107 Quartz Valley Rd, Fort Jones, CA 96032",Fort Jones,CA,96032,41.580738,-122.972916,https://www.zillow.com/homedetails/12107-Quartz-Valley-Rd-Fort-Jones-CA-96032/15972706_zpid/,849000.0
+217,3,2,1576.0,"131 Carlock St, Fort Jones, CA 96032",Fort Jones,CA,96032,41.606136,-122.84522,https://www.zillow.com/homedetails/131-Carlock-St-Fort-Jones-CA-96032/15979030_zpid/,269000.0
+218,2,2,1680.0,"813 High St, Fort Jones, CA 96032",Fort Jones,CA,96032,41.607265,-122.834984,https://www.zillow.com/homedetails/813-High-St-Fort-Jones-CA-96032/15972498_zpid/,225000.0
+219,3,2,1736.0,"809 High St, Fort Jones, CA 96032",Fort Jones,CA,96032,41.60804,-122.834785,https://www.zillow.com/homedetails/809-High-St-Fort-Jones-CA-96032/15972497_zpid/,250000.0
+220,2,2,1800.0,"13406 Scarface Rd, Fort Jones, CA 96032",Fort Jones,CA,96032,41.571365,-122.689445,https://www.zillow.com/homedetails/13406-Scarface-Rd-Fort-Jones-CA-96032/2133656265_zpid/,1510000.0
+221,3,2,2400.0,"13902 Patterson Creek Rd, Fort Jones, CA 96032",Fort Jones,CA,96032,41.64371,-122.95037,https://www.zillow.com/homedetails/13902-Patterson-Creek-Rd-Fort-Jones-CA-96032/15970111_zpid/,619000.0
+222,4,3,3655.0,"322 Air Force Way, Fort Jones, CA 96032",Fort Jones,CA,96032,41.61552,-122.773285,https://www.zillow.com/homedetails/322-Air-Force-Way-Fort-Jones-CA-96032/15969582_zpid/,599000.0
+223,2,1,750.0,"630 Hall St, Susanville, CA 96130",Susanville,CA,96130,40.4213,-120.6453,https://www.zillow.com/homedetails/630-Hall-St-Susanville-CA-96130/2064098840_zpid/,145900.0
+224,3,2,1358.0,"740 Ruth Way, Susanville, CA 96130",Susanville,CA,96130,40.434162,-120.65891,https://www.zillow.com/homedetails/740-Ruth-Way-Susanville-CA-96130/19106231_zpid/,275000.0
+225,4,2,1677.0,"523 Hill St, Susanville, CA 96130",Susanville,CA,96130,40.422234,-120.662155,https://www.zillow.com/homedetails/523-Hill-St-Susanville-CA-96130/19106899_zpid/,165000.0
+226,3,2,1792.0,"471-435 Singletree Ln, Susanville, CA 96130",Susanville,CA,96130,40.371464,-120.61932,https://www.zillow.com/homedetails/471-435-Singletree-Ln-Susanville-CA-96130/2064153265_zpid/,245900.0
+227,4,4,2200.0,"469-195 Childrens Rd, Susanville, CA 96130",Susanville,CA,96130,40.35398,-120.65605,https://www.zillow.com/homedetails/469-195-Childrens-Rd-Susanville-CA-96130/19109358_zpid/,600000.0
+228,3,2,1353.0,"139 S McDow St, Susanville, CA 96130",Susanville,CA,96130,40.413895,-120.646385,https://www.zillow.com/homedetails/139-S-McDow-St-Susanville-CA-96130/58681641_zpid/,165000.0
+229,2,1,924.0,"340 N Fairfield Ave, Susanville, CA 96130",Susanville,CA,96130,40.417202,-120.64086,https://www.zillow.com/homedetails/340-N-Fairfield-Ave-Susanville-CA-96130/19107776_zpid/,189000.0
+230,2,1,1128.0,"804 Nevada St, Susanville, CA 96130",Susanville,CA,96130,40.419018,-120.659874,https://www.zillow.com/homedetails/804-Nevada-St-Susanville-CA-96130/19107312_zpid/,175000.0
+231,5,4,3088.0,"469-585 Childrens Rd, Susanville, CA 96130",Susanville,CA,96130,40.353825,-120.650116,https://www.zillow.com/homedetails/469-585-Childrens-Rd-Susanville-CA-96130/19109331_zpid/,579900.0
+232,3,1,1594.0,"312 S California St, Dorris, CA 96023",Dorris,CA,96023,41.963642,-121.91985,https://www.zillow.com/homedetails/312-S-California-St-Dorris-CA-96023/15977095_zpid/,98500.0
+233,2,1,960.0,"100 S California St, Dorris, CA 96023",Dorris,CA,96023,41.966877,-121.91987,https://www.zillow.com/homedetails/100-S-California-St-Dorris-CA-96023/15977035_zpid/,133333.0
+234,3,1,1266.0,"7 Orange St, Susanville, CA 96130",Susanville,CA,96130,40.410522,-120.65383,https://www.zillow.com/homedetails/7-Orange-St-Susanville-CA-96130/19108611_zpid/,165000.0
+235,3,2,1248.0,"7725 School House Rd, Dorris, CA 96023",Dorris,CA,96023,41.900833,-122.11449,https://www.zillow.com/homedetails/7725-School-House-Rd-Dorris-CA-96023/89037369_zpid/,300000.0
+236,3,3,2479.0,"699-350 Gold Run Rd, Susanville, CA 96130",Susanville,CA,96130,40.378258,-120.65425,https://www.zillow.com/homedetails/699-350-Gold-Run-Rd-Susanville-CA-96130/68552967_zpid/,679000.0
+237,1,1,600.0,"481-200 Rice Canyon Rd, Susanville, CA 96130",Susanville,CA,96130,40.4117,-120.53334,https://www.zillow.com/homedetails/481-200-Rice-Canyon-Rd-Susanville-CA-96130/2080214838_zpid/,699000.0
+238,3,3,2303.0,"471-825 Bantley Dr, Susanville, CA 96130",Susanville,CA,96130,40.375626,-120.60472,https://www.zillow.com/homedetails/471-825-Bantley-Dr-Susanville-CA-96130/19109675_zpid/,559000.0
+239,3,2,1700.0,"4104 Picard Rd, Dorris, CA 96023",Dorris,CA,96023,41.962696,-121.98712,https://www.zillow.com/homedetails/4104-Picard-Rd-Dorris-CA-96023/64772024_zpid/,12900000.0
+240,3,2,1440.0,"509-230 Stone Rd, Susanville, CA 96130",Susanville,CA,96130,40.713936,-120.72336,https://www.zillow.com/homedetails/509-230-Stone-Rd-Susanville-CA-96130/19105436_zpid/,295000.0
+241,3,2,1146.0,"710-025 Lake Ave, Susanville, CA 96130",Susanville,CA,96130,40.3735,-120.52805,https://www.zillow.com/homedetails/710-025-Lake-Ave-Susanville-CA-96130/19109925_zpid/,175000.0
+242,1,1,775.0,"319 Spruce St, Susanville, CA 96130",Susanville,CA,96130,40.419144,-120.64989,https://www.zillow.com/homedetails/319-Spruce-St-Susanville-CA-96130/19107567_zpid/,139900.0
+243,3,2,1500.0,"370 N Mesa St, Susanville, CA 96130",Susanville,CA,96130,40.417313,-120.6395,https://www.zillow.com/homedetails/370-N-Mesa-St-Susanville-CA-96130/19107813_zpid/,289900.0
+244,2,1,970.0,"470-790 Tule Dr, Susanville, CA 96130",Susanville,CA,96130,40.372128,-120.52867,https://www.zillow.com/homedetails/470-790-Tule-Dr-Susanville-CA-96130/19110034_zpid/,184900.0
+245,3,2,1300.0,"919 Mark St, Susanville, CA 96130",Susanville,CA,96130,40.42254,-120.65645,https://www.zillow.com/homedetails/919-Mark-St-Susanville-CA-96130/19107042_zpid/,169000.0
+246,3,3,1786.0,"700 Court St, Susanville, CA 96130",Susanville,CA,96130,40.415413,-120.66296,https://www.zillow.com/homedetails/700-Court-St-Susanville-CA-96130/119593858_zpid/,299000.0
+247,1,2,594.0,"329 Pardee Ave, Susanville, CA 96130",Susanville,CA,96130,40.412544,-120.654,https://www.zillow.com/homedetails/329-Pardee-Ave-Susanville-CA-96130/19108446_zpid/,115000.0
+248,4,3,2789.0,"470-790 Wingfield Rd, Susanville, CA 96130",Susanville,CA,96130,40.365013,-120.63752,https://www.zillow.com/homedetails/470-790-Wingfield-Rd-Susanville-CA-96130/19109275_zpid/,539900.0
+249,3,2,1152.0,"45 Emerald Ct, Susanville, CA 96130",Susanville,CA,96130,40.40564,-120.66364,https://www.zillow.com/homedetails/45-Emerald-Ct-Susanville-CA-96130/63077473_zpid/,229900.0
+250,2,1,988.0,"125 N Spring St, Susanville, CA 96130",Susanville,CA,96130,40.41483,-120.64238,https://www.zillow.com/homedetails/125-N-Spring-St-Susanville-CA-96130/19107966_zpid/,139500.0
+251,3,2,1071.0,"1215 North St, Susanville, CA 96130",Susanville,CA,96130,40.41901,-120.65353,https://www.zillow.com/homedetails/1215-North-St-Susanville-CA-96130/19107193_zpid/,119000.0
+252,5,3,2668.0,"470-065 Wingfield Rd, Susanville, CA 96130",Susanville,CA,96130,40.35866,-120.64318,https://www.zillow.com/homedetails/470-065-Wingfield-Rd-Susanville-CA-96130/19109322_zpid/,525000.0
+253,2,1,1420.0,"458 County Road 214, Canby, CA 96015",Canby,CA,96015,41.429012,-120.90146,https://www.zillow.com/homedetails/458-County-Road-214-Canby-CA-96015/234674944_zpid/,163000.0
+254,3,3,1858.0,"1175 Overlook Dr, Susanville, CA 96130",Susanville,CA,96130,40.432865,-120.649185,https://www.zillow.com/homedetails/1175-Overlook-Dr-Susanville-CA-96130/112398383_zpid/,449900.0
+255,3,1,856.0,"24 Upland St, Susanville, CA 96130",Susanville,CA,96130,40.408833,-120.65246,https://www.zillow.com/homedetails/24-Upland-St-Susanville-CA-96130/19108653_zpid/,112000.0
+256,4,2,1518.0,"1130 Brian Ct, Susanville, CA 96130",Susanville,CA,96130,40.431816,-120.66218,https://www.zillow.com/homedetails/1130-Brian-Ct-Susanville-CA-96130/19106380_zpid/,287000.0
+257,3,2,1428.0,"710-710 Willow St #425, Susanville, CA 96130",Susanville,CA,96130,40.421974,-120.65951,https://www.zillow.com/homedetails/710-710-Willow-St-425-Susanville-CA-96130/2065758710_zpid/,150000.0
+258,3,3,2763.0,"715-675 Us Highway 395 E, Susanville, CA 96130",Susanville,CA,96130,40.3709,-120.459206,https://www.zillow.com/homedetails/715-675-Us-Highway-395-E-Susanville-CA-96130/2065585782_zpid/,379000.0
+259,2,1,768.0,"340 Ash St, Susanville, CA 96130",Susanville,CA,96130,40.419205,-120.647575,https://www.zillow.com/homedetails/340-Ash-St-Susanville-CA-96130/19107588_zpid/,175000.0
+260,3,1,1898.0,"225 N Roop St, Susanville, CA 96130",Susanville,CA,96130,40.421227,-120.66181,https://www.zillow.com/homedetails/225-N-Roop-St-Susanville-CA-96130/19106951_zpid/,280000.0
+261,4,3,2458.0,"1508 3rd St, Susanville, CA 96130",Susanville,CA,96130,40.41861,-120.64972,https://www.zillow.com/homedetails/1508-3rd-St-Susanville-CA-96130/19107636_zpid/,249000.0
+262,3,3,2748.0,"698-855 Gold Run Rd, Susanville, CA 96130",Susanville,CA,96130,40.375782,-120.65995,https://www.zillow.com/homedetails/698-855-Gold-Run-Rd-Susanville-CA-96130/19109479_zpid/,439900.0
+263,3,2,1494.0,"508-405 Stone Rd, Susanville, CA 96130",Susanville,CA,96130,40.708534,-120.7299,https://www.zillow.com/homedetails/508-405-Stone-Rd-Susanville-CA-96130/19105481_zpid/,299000.0
+264,4,3,2194.0,"432-432 Minckler Ave #434, Susanville, CA 96130",Susanville,CA,96130,40.41174,-120.65751,https://www.zillow.com/homedetails/432-432-Minckler-Ave-434-Susanville-CA-96130/2066378597_zpid/,319900.0
+265,2,1,938.0,"235 N Gilman St, Susanville, CA 96130",Susanville,CA,96130,40.416782,-120.64399,https://www.zillow.com/homedetails/235-N-Gilman-St-Susanville-CA-96130/19107735_zpid/,169500.0
+266,5,5,3950.0,"472-800 Richmond Rd, Susanville, CA 96130",Susanville,CA,96130,40.383415,-120.64665,https://www.zillow.com/homedetails/472-800-Richmond-Rd-Susanville-CA-96130/2067255084_zpid/,629000.0
+267,3,2,1300.0,"0 Thomas Blvd, Susanville, CA 96130",Susanville,CA,96130,40.362625,-120.45697,https://www.zillow.com/homedetails/0-Thomas-Blvd-Susanville-CA-96130/2067270558_zpid/,420000.0
+268,4,2,1950.0,"472-250 Karat Gold Ln, Susanville, CA 96130",Susanville,CA,96130,40.378426,-120.66291,https://www.zillow.com/homedetails/472-250-Karat-Gold-Ln-Susanville-CA-96130/19109578_zpid/,464500.0
+269,5,3,3164.0,"474-995 Richmond Rd, Susanville, CA 96130",Susanville,CA,96130,40.402485,-120.666306,https://www.zillow.com/homedetails/474-995-Richmond-Rd-Susanville-CA-96130/63077527_zpid/,670000.0
+270,3,1,1256.0,"739 Plumas St, Susanville, CA 96130",Susanville,CA,96130,40.4085,-120.65953,https://www.zillow.com/homedetails/739-Plumas-St-Susanville-CA-96130/19108734_zpid/,187900.0
+271,3,2,1560.0,"17614 Hawthorne Ave, Anderson, CA 96007",Anderson,CA,96007,40.478592,-122.40263,https://www.zillow.com/homedetails/17614-Hawthorne-Ave-Anderson-CA-96007/15246238_zpid/,378888.0
+272,3,2,1598.0,"19789 Weide Way, Anderson, CA 96007",Anderson,CA,96007,40.448887,-122.32498,https://www.zillow.com/homedetails/19789-Weide-Way-Anderson-CA-96007/15244113_zpid/,399000.0
+273,2,1,770.0,"3525 Gardenia St, Anderson, CA 96007",Anderson,CA,96007,40.468468,-122.29374,https://www.zillow.com/homedetails/3525-Gardenia-St-Anderson-CA-96007/15242891_zpid/,198000.0
+274,3,2,1152.0,"4910 Heath Ln, Anderson, CA 96007",Anderson,CA,96007,40.43002,-122.39884,https://www.zillow.com/homedetails/4910-Heath-Ln-Anderson-CA-96007/15247606_zpid/,249000.0
+275,3,2,1695.0,"5365 Happy Valley Rd, Anderson, CA 96007",Anderson,CA,96007,40.442333,-122.405556,https://www.zillow.com/homedetails/5365-Happy-Valley-Rd-Anderson-CA-96007/300273084_zpid/,399000.0
+276,6,5,3840.0,"4933 Pinehurst Rd, Anderson, CA 96007",Anderson,CA,96007,40.4292,-122.39,https://www.zillow.com/homedetails/4933-Pinehurst-Rd-Anderson-CA-96007/15247587_zpid/,378000.0
+277,5,5,3400.0,"16439 Scout Ave, Anderson, CA 96007",Anderson,CA,96007,40.455177,-122.44752,https://www.zillow.com/homedetails/16439-Scout-Ave-Anderson-CA-96007/15247281_zpid/,575000.0
+278,3,2,1344.0,"3610 Ravenwood Ln, Anderson, CA 96007",Anderson,CA,96007,40.46594,-122.29797,https://www.zillow.com/homedetails/3610-Ravenwood-Ln-Anderson-CA-96007/59678957_zpid/,359000.0
+279,4,3,2300.0,"6130 Oak St, Anderson, CA 96007",Anderson,CA,96007,40.463116,-122.455345,https://www.zillow.com/homedetails/6130-Oak-St-Anderson-CA-96007/15247037_zpid/,505000.0
+280,6,8,8094.0,"19255 Spring Gulch Rd, Anderson, CA 96007",Anderson,CA,96007,40.453354,-122.331345,https://www.zillow.com/homedetails/19255-Spring-Gulch-Rd-Anderson-CA-96007/240285274_zpid/,1350000.0
+281,3,2,2308.0,"4800 Old Ranch Rd, Anderson, CA 96007",Anderson,CA,96007,40.426853,-122.42505,https://www.zillow.com/homedetails/4800-Old-Ranch-Rd-Anderson-CA-96007/116215487_zpid/,689000.0
+282,4,2,2064.0,"17124 Jay Dee Ln, Anderson, CA 96007",Anderson,CA,96007,40.49303,-122.41164,https://www.zillow.com/homedetails/17124-Jay-Dee-Ln-Anderson-CA-96007/15248828_zpid/,649000.0
+283,3,2,1672.0,"16895 Laverne Ln, Anderson, CA 96007",Anderson,CA,96007,40.47026,-122.43015,https://www.zillow.com/homedetails/16895-Laverne-Ln-Anderson-CA-96007/15246487_zpid/,339000.0
+284,3,1,1000.0,"3082 Stingy Ln, Anderson, CA 96007",Anderson,CA,96007,40.46119,-122.28978,https://www.zillow.com/homedetails/3082-Stingy-Ln-Anderson-CA-96007/15242509_zpid/,257000.0
+285,4,2,1852.0,"3520 Humbug Dr, Anderson, CA 96007",Anderson,CA,96007,40.459614,-122.30487,https://www.zillow.com/homedetails/3520-Humbug-Dr-Anderson-CA-96007/122146586_zpid/,445000.0
+286,3,3,2095.0,"471-060 Wingfield Rd, Susanville, CA 96130",Susanville,CA,96130,40.3675,-120.63897,https://www.zillow.com/homedetails/471-060-Wingfield-Rd-Susanville-CA-96130/19109279_zpid/,345000.0
+287,5,3,2531.0,"476-615 Rice Canyon Rd, Susanville, CA 96130",Susanville,CA,96130,40.4117,-120.53334,https://www.zillow.com/homedetails/476-615-Rice-Canyon-Rd-Susanville-CA-96130/226828048_zpid/,599000.0
+288,2,1,1008.0,"220 Park St, Susanville, CA 96130",Susanville,CA,96130,40.41804,-120.6494,https://www.zillow.com/homedetails/220-Park-St-Susanville-CA-96130/19107639_zpid/,145900.0
+289,3,2,1752.0,"701-560 Richmond Rd, Susanville, CA 96130",Susanville,CA,96130,40.374584,-120.62815,https://www.zillow.com/homedetails/701-560-Richmond-Rd-Susanville-CA-96130/2065699119_zpid/,465000.0
+290,2,2,1626.0,"154 S Fairfield Ave, Susanville, CA 96130",Susanville,CA,96130,40.412033,-120.64295,https://www.zillow.com/homedetails/154-S-Fairfield-Ave-Susanville-CA-96130/19108129_zpid/,239000.0
+291,3,2,1804.0,"1920 1st St, Susanville, CA 96130",Susanville,CA,96130,40.415154,-120.64473,https://www.zillow.com/homedetails/1920-1st-St-Susanville-CA-96130/19107939_zpid/,229500.0
+292,3,2,2592.0,"469-200 Golden Ln, Susanville, CA 96130",Susanville,CA,96130,40.35335,-120.69842,https://www.zillow.com/homedetails/469-200-Golden-Ln-Susanville-CA-96130/82874414_zpid/,450000.0
+293,3,2,1720.0,"470-100 Buffum Ln, Susanville, CA 96130",Susanville,CA,96130,40.36243,-120.53074,https://www.zillow.com/homedetails/470-100-Buffum-Ln-Susanville-CA-96130/226832409_zpid/,4500000.0
+294,3,2,2350.0,"470-875 Diane Dr, Susanville, CA 96130",Susanville,CA,96130,40.36524,-120.59325,https://www.zillow.com/homedetails/470-875-Diane-Dr-Susanville-CA-96130/19109178_zpid/,445000.0
+295,2,1,792.0,"1982 Spruce Cir, Anderson, CA 96007",Anderson,CA,96007,40.434654,-122.29465,https://www.zillow.com/homedetails/1982-Spruce-Cir-Anderson-CA-96007/15244375_zpid/,190000.0
+296,4,2,2152.0,"6255 Happy Valley Rd, Anderson, CA 96007",Anderson,CA,96007,40.466957,-122.396736,https://www.zillow.com/homedetails/6255-Happy-Valley-Rd-Anderson-CA-96007/15246386_zpid/,349900.0
+297,4,3,2214.0,"LOT 27 Fortune Way, Anderson, CA 96007",Anderson,CA,96007,40.486584,-122.44119,https://www.zillow.com/homedetails/LOT-27-Fortune-Way-Anderson-CA-96007/2065610055_zpid/,759000.0
+298,4,3,2214.0,"LOT 26 Fortune Way, Anderson, CA 96007",Anderson,CA,96007,40.486584,-122.44119,https://www.zillow.com/homedetails/LOT-26-Fortune-Way-Anderson-CA-96007/2065610090_zpid/,699000.0
+299,4,3,2214.0,"LOT 25 Fortune Way, Anderson, CA 96007",Anderson,CA,96007,40.486584,-122.44119,https://www.zillow.com/homedetails/LOT-25-Fortune-Way-Anderson-CA-96007/2065610165_zpid/,690000.0
+300,4,3,2214.0,"LOT 11 Fortune Way, Anderson, CA 96007",Anderson,CA,96007,40.486584,-122.44119,https://www.zillow.com/homedetails/LOT-11-Fortune-Way-Anderson-CA-96007/2065610126_zpid/,690000.0
+301,3,2,1585.0,"3547 Cazadero Way, Anderson, CA 96007",Anderson,CA,96007,40.46129,-122.303894,https://www.zillow.com/homedetails/3547-Cazadero-Way-Anderson-CA-96007/244156496_zpid/,429900.0
+302,2,1,2064.0,"5924 Deschutes Rd, Anderson, CA 96007",Anderson,CA,96007,40.46037,-122.2463,https://www.zillow.com/homedetails/5924-Deschutes-Rd-Anderson-CA-96007/59678411_zpid/,849000.0
+303,3,2,1728.0,"6705 Stallion Ridge Rd, Anderson, CA 96007",Anderson,CA,96007,40.48,-122.42748,https://www.zillow.com/homedetails/6705-Stallion-Ridge-Rd-Anderson-CA-96007/69820524_zpid/,589900.0
+304,4,2,2300.0,"5887 Missouri Ln, Anderson, CA 96007",Anderson,CA,96007,40.460155,-122.32439,https://www.zillow.com/homedetails/5887-Missouri-Ln-Anderson-CA-96007/15210995_zpid/,435000.0
+305,3,2,1966.0,"16800 China Gulch Dr, Anderson, CA 96007",Anderson,CA,96007,40.49014,-122.43379,https://www.zillow.com/homedetails/16800-China-Gulch-Dr-Anderson-CA-96007/83363878_zpid/,679500.0
+306,2,1,1326.0,"6730 Happy Valley Rd, Anderson, CA 96007",Anderson,CA,96007,40.480827,-122.39678,https://www.zillow.com/homedetails/6730-Happy-Valley-Rd-Anderson-CA-96007/59679025_zpid/,360000.0
+307,3,2,1898.0,"4510 Pleasant Hills Dr, Anderson, CA 96007",Anderson,CA,96007,40.423767,-122.30065,https://www.zillow.com/homedetails/4510-Pleasant-Hills-Dr-Anderson-CA-96007/2066435091_zpid/,545900.0
+308,3,2,1748.0,"20016 Pride Mountain Ct, Anderson, CA 96007",Anderson,CA,96007,40.42295,-122.29889,https://www.zillow.com/homedetails/20016-Pride-Mountain-Ct-Anderson-CA-96007/2066446963_zpid/,539900.0
+309,1,1,700.0,"4422 Gover Rd, Anderson, CA 96007",Anderson,CA,96007,40.40905,-122.184,https://www.zillow.com/homedetails/4422-Gover-Rd-Anderson-CA-96007/2101716574_zpid/,899000.0
+310,4,2,2300.0,"477-325 Eagle Lake Rd, Susanville, CA 96130",Susanville,CA,96130,40.42163,-120.72041,https://www.zillow.com/homedetails/477-325-Eagle-Lake-Rd-Susanville-CA-96130/19106117_zpid/,385000.0
+311,4,2,2594.0,"6458 Oak St, Anderson, CA 96007",Anderson,CA,96007,40.472736,-122.45531,https://www.zillow.com/homedetails/6458-Oak-St-Anderson-CA-96007/240285162_zpid/,399900.0
+312,3,2,1938.0,"4829 Pheasant Dr, Anderson, CA 96007",Anderson,CA,96007,40.42881,-122.21706,https://www.zillow.com/homedetails/4829-Pheasant-Dr-Anderson-CA-96007/15227048_zpid/,499000.0
+313,2,1,1156.0,"518-045 State Highway 395, Ravendale, CA 96123",Ravendale,CA,96123,40.818546,-120.398544,https://www.zillow.com/homedetails/518-045-State-Highway-395-Ravendale-CA-96123/2066467777_zpid/,169000.0
+314,4,3,3800.0,"5946 Happy Valley Rd, Anderson, CA 96007",Anderson,CA,96007,40.4585,-122.40341,https://www.zillow.com/homedetails/5946-Happy-Valley-Rd-Anderson-CA-96007/331231657_zpid/,649000.0
+315,4,2,1310.0,"771 April Ln, Yuba City, CA 95991",Yuba City,CA,95991,39.153454,-121.62855,https://www.zillow.com/homedetails/771-April-Ln-Yuba-City-CA-95991/16085548_zpid/,389999.0
+316,4,2,1484.0,"1153 Galaxy Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.107807,-121.62899,https://www.zillow.com/homedetails/1153-Galaxy-Dr-Yuba-City-CA-95991/16096683_zpid/,389000.0
+317,3,2,2330.0,"373 2nd St, Yuba City, CA 95991",Yuba City,CA,95991,39.134193,-121.60474,https://www.zillow.com/homedetails/373-2nd-St-Yuba-City-CA-95991/16085351_zpid/,575000.0
+318,4,3,2439.0,"2259 Claremont Way, Yuba City, CA 95991",Yuba City,CA,95991,39.093925,-121.61937,https://www.zillow.com/homedetails/2259-Claremont-Way-Yuba-City-CA-95991/69305451_zpid/,639000.0
+319,3,2,1634.0,"2366 Arizona Way, Yuba City, CA 95991",Yuba City,CA,95991,39.094734,-121.60524,https://www.zillow.com/homedetails/2366-Arizona-Way-Yuba-City-CA-95991/64978467_zpid/,450000.0
+320,4,3,2200.0,"1220 Swarn Ct, Yuba City, CA 95991",Yuba City,CA,95991,39.167984,-121.633385,https://www.zillow.com/homedetails/1220-Swarn-Ct-Yuba-City-CA-95991/97453234_zpid/,599000.0
+321,4,2,1893.0,"1155 Sam Rider Way, Yuba City, CA 95991",Yuba City,CA,95991,39.11177,-121.63156,https://www.zillow.com/homedetails/1155-Sam-Rider-Way-Yuba-City-CA-95991/69307104_zpid/,499000.0
+322,3,2,1524.0,"1640 Melanie Ln, Yuba City, CA 95991",Yuba City,CA,95991,39.154964,-121.62238,https://www.zillow.com/homedetails/1640-Melanie-Ln-Yuba-City-CA-95991/16094803_zpid/,270000.0
+323,3,3,2450.0,"2297 Mackenzie Way, Yuba City, CA 95991",Yuba City,CA,95991,39.09304,-121.61749,https://www.zillow.com/homedetails/2297-Mackenzie-Way-Yuba-City-CA-95991/64976480_zpid/,675000.0
+324,3,2,2304.0,"1145 Ashwood Ct, Yuba City, CA 95991",Yuba City,CA,95991,39.110252,-121.626785,https://www.zillow.com/homedetails/1145-Ashwood-Ct-Yuba-City-CA-95991/16084909_zpid/,520000.0
+325,3,2,1553.0,"432-405 Constantia Rd, Doyle, CA 96109",Doyle,CA,96109,40.003284,-120.09533,https://www.zillow.com/homedetails/432-405-Constantia-Rd-Doyle-CA-96109/19113114_zpid/,269000.0
+326,2,1,864.0,"799 Clark Ave APT 26, Yuba City, CA 95991",Yuba City,CA,95991,39.136246,-121.624794,https://www.zillow.com/homedetails/799-Clark-Ave-APT-26-Yuba-City-CA-95991/16082729_zpid/,169900.0
+327,3,2,1599.0,"1441 Tradewind Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.10582,-121.61783,https://www.zillow.com/homedetails/1441-Tradewind-Dr-Yuba-City-CA-95991/16090341_zpid/,439000.0
+328,2,1,1115.0,"533 Scott St, Yuba City, CA 95991",Yuba City,CA,95991,39.136566,-121.61697,https://www.zillow.com/homedetails/533-Scott-St-Yuba-City-CA-95991/16082878_zpid/,325000.0
+329,3,2,1397.0,"795 Railroad Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.11752,-121.622826,https://www.zillow.com/homedetails/795-Railroad-Ave-Yuba-City-CA-95991/16084856_zpid/,315000.0
+330,3,2,1629.0,"1890 Ari Ct, Yuba City, CA 95991",Yuba City,CA,95991,39.099747,-121.62974,https://www.zillow.com/homedetails/1890-Ari-Ct-Yuba-City-CA-95991/16097095_zpid/,449000.0
+331,3,3,1444.0,"1094 Arbor Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.11173,-121.62922,https://www.zillow.com/homedetails/1094-Arbor-Dr-Yuba-City-CA-95991/64975487_zpid/,389000.0
+332,3,3,1800.0,"443-310 Olive Ln, Doyle, CA 96109",Doyle,CA,96109,40.10726,-120.21503,https://www.zillow.com/homedetails/443-310-Olive-Ln-Doyle-CA-96109/2068792376_zpid/,685000.0
+333,3,2,1467.0,"658 King Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.14798,-121.624725,https://www.zillow.com/homedetails/658-King-Ave-Yuba-City-CA-95991/16083190_zpid/,439000.0
+334,2,1,1144.0,"922 Cooper Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.13983,-121.62397,https://www.zillow.com/homedetails/922-Cooper-Ave-Yuba-City-CA-95991/16082452_zpid/,267500.0
+335,3,2,2050.0,"435805 Diana Dr, Doyle, CA 96109",Doyle,CA,96109,40.035645,-120.12121,https://www.zillow.com/homedetails/435805-Diana-Dr-Doyle-CA-96109/82882933_zpid/,259000.0
+336,3,2,1419.0,"900 Oakview Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.15991,-121.62628,https://www.zillow.com/homedetails/900-Oakview-Dr-Yuba-City-CA-95991/16087054_zpid/,429900.0
+337,4,2,1954.0,"642 Winslow Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.154026,-121.62454,https://www.zillow.com/homedetails/642-Winslow-Dr-Yuba-City-CA-95991/64976373_zpid/,425000.0
+338,4,2,1549.0,"2474 Carmelo Way, Yuba City, CA 95991",Yuba City,CA,95991,39.09323,-121.60799,https://www.zillow.com/homedetails/2474-Carmelo-Way-Yuba-City-CA-95991/16090878_zpid/,449000.0
+339,3,2,1481.0,"562 Mosburg Loop, Yuba City, CA 95991",Yuba City,CA,95991,39.098236,-121.61679,https://www.zillow.com/homedetails/562-Mosburg-Loop-Yuba-City-CA-95991/89477734_zpid/,470000.0
+340,3,2,1340.0,"794 Railroad Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.117527,-121.622246,https://www.zillow.com/homedetails/794-Railroad-Ave-Yuba-City-CA-95991/16084503_zpid/,389000.0
+341,4,3,1681.0,"621 Lask Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.103935,-121.617226,https://www.zillow.com/homedetails/621-Lask-Dr-Yuba-City-CA-95991/16090996_zpid/,465000.0
+342,3,3,2101.0,"911 Mariposa Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.109512,-121.624664,https://www.zillow.com/homedetails/911-Mariposa-Dr-Yuba-City-CA-95991/16084678_zpid/,509000.0
+343,1,1,672.0,"285 Del Monte Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.126877,-121.61508,https://www.zillow.com/homedetails/285-Del-Monte-Ave-Yuba-City-CA-95991/16084170_zpid/,149900.0
+344,3,3,1556.0,"2152 Deer Creek Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.098415,-121.60524,https://www.zillow.com/homedetails/2152-Deer-Creek-Dr-Yuba-City-CA-95991/64975285_zpid/,455000.0
+345,3,1,1098.0,"370 Pine Way, Yuba City, CA 95991",Yuba City,CA,95991,39.129147,-121.61868,https://www.zillow.com/homedetails/370-Pine-Way-Yuba-City-CA-95991/16083685_zpid/,265000.0
+346,3,3,1730.0,"750 Lincoln Rd APT 20, Yuba City, CA 95991",Yuba City,CA,95991,39.112087,-121.62059,https://www.zillow.com/homedetails/750-Lincoln-Rd-APT-20-Yuba-City-CA-95991/16084755_zpid/,300000.0
+347,4,2,1900.0,"1318 Geneva Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.107964,-121.626114,https://www.zillow.com/homedetails/1318-Geneva-Ave-Yuba-City-CA-95991/16096730_zpid/,425000.0
+348,4,3,2324.0,"1977 Westminster Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.16429,-121.63267,https://www.zillow.com/homedetails/1977-Westminster-Dr-Yuba-City-CA-95991/64978456_zpid/,589900.0
+349,3,1,864.0,"1118 McMullen Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.152443,-121.63055,https://www.zillow.com/homedetails/1118-McMullen-Ave-Yuba-City-CA-95991/16085693_zpid/,274999.0
+350,3,2,1944.0,"718 E 5th St, Alturas, CA 96101",Alturas,CA,96101,41.4885,-120.5334,https://www.zillow.com/homedetails/718-E-5th-St-Alturas-CA-96101/19114423_zpid/,309000.0
+351,3,2,1324.0,"1526 Upland Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.152702,-121.62538,https://www.zillow.com/homedetails/1526-Upland-Dr-Yuba-City-CA-95991/16083337_zpid/,329000.0
+352,3,1,1406.0,"1200 W 11th St, Alturas, CA 96101",Alturas,CA,96101,41.49398,-120.559654,https://www.zillow.com/homedetails/1200-W-11th-St-Alturas-CA-96101/19113975_zpid/,179950.0
+353,3,2,1524.0,"1045 Oakwood Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.156788,-121.62878,https://www.zillow.com/homedetails/1045-Oakwood-Dr-Yuba-City-CA-95991/16087144_zpid/,449900.0
+354,3,1,944.0,"1304 W 8th St, Alturas, CA 96101",Alturas,CA,96101,41.49162,-120.56134,https://www.zillow.com/homedetails/1304-W-8th-St-Alturas-CA-96101/19114014_zpid/,85000.0
+355,3,1,1294.0,"977 Frederick St, Yuba City, CA 95991",Yuba City,CA,95991,39.131145,-121.627975,https://www.zillow.com/homedetails/977-Frederick-St-Yuba-City-CA-95991/16088226_zpid/,355000.0
+356,2,1,744.0,"1202 W 8th St, Alturas, CA 96101",Alturas,CA,96101,41.49162,-120.559814,https://www.zillow.com/homedetails/1202-W-8th-St-Alturas-CA-96101/19114035_zpid/,118000.0
+357,2,2,1028.0,"705 Almond St, Yuba City, CA 95991",Yuba City,CA,95991,39.136814,-121.61853,https://www.zillow.com/homedetails/705-Almond-St-Yuba-City-CA-95991/16082867_zpid/,329900.0
+358,3,2,1444.0,"1086 Arbor Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.111732,-121.62904,https://www.zillow.com/homedetails/1086-Arbor-Dr-Yuba-City-CA-95991/64975492_zpid/,384900.0
+359,3,2,1337.0,"515 Ohlson St, Yuba City, CA 95991",Yuba City,CA,95991,39.147057,-121.62128,https://www.zillow.com/homedetails/515-Ohlson-St-Yuba-City-CA-95991/16083231_zpid/,359000.0
+360,4,3,2043.0,"755 Stewart Rd, Yuba City, CA 95991",Yuba City,CA,95991,39.087696,-121.62146,https://www.zillow.com/homedetails/755-Stewart-Rd-Yuba-City-CA-95991/249923099_zpid/,799000.0
+361,2,1,1210.0,"488 Steward Rd, Alturas, CA 96101",Alturas,CA,96101,41.59139,-120.41856,https://www.zillow.com/homedetails/488-Steward-Rd-Alturas-CA-96101/249304267_zpid/,110000.0
+362,3,2,1420.0,"126 River Oaks Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.103874,-121.60847,https://www.zillow.com/homedetails/126-River-Oaks-Dr-Yuba-City-CA-95991/54051549_zpid/,410000.0
+363,3,2,1196.0,"1516 Gray Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.15252,-121.63028,https://www.zillow.com/homedetails/1516-Gray-Ave-Yuba-City-CA-95991/16085694_zpid/,339999.0
+364,2,1,950.0,"505 Grande Rd, Alturas, CA 96101",Alturas,CA,96101,41.417744,-120.64496,https://www.zillow.com/homedetails/505-Grande-Rd-Alturas-CA-96101/19117164_zpid/,154900.0
+365,3,2,1452.0,"1653 Southpark Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.09988,-121.62108,https://www.zillow.com/homedetails/1653-Southpark-Dr-Yuba-City-CA-95991/2065425921_zpid/,420000.0
+366,3,2,1144.0,"602 W 3rd St, Alturas, CA 96101",Alturas,CA,96101,41.486713,-120.55012,https://www.zillow.com/homedetails/602-W-3rd-St-Alturas-CA-96101/19114596_zpid/,125000.0
+367,3,2,1143.0,"733 Rice Way, Yuba City, CA 95991",Yuba City,CA,95991,39.152687,-121.6272,https://www.zillow.com/homedetails/733-Rice-Way-Yuba-City-CA-95991/16085482_zpid/,349900.0
+368,3,2,1561.0,"842 Morley Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.13269,-121.62499,https://www.zillow.com/homedetails/842-Morley-Ave-Yuba-City-CA-95991/16084273_zpid/,305000.0
+369,2,1,768.0,"668 Brooks Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.13038,-121.61835,https://www.zillow.com/homedetails/668-Brooks-Ave-Yuba-City-CA-95991/16083703_zpid/,225000.0
+370,4,3,2383.0,"2242 Birmington Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.169296,-121.630554,https://www.zillow.com/homedetails/2242-Birmington-Dr-Yuba-City-CA-95991/122725959_zpid/,620000.0
+371,3,2,1222.0,"1180 Larry Way, Yuba City, CA 95991",Yuba City,CA,95991,39.08197,-121.63155,https://www.zillow.com/homedetails/1180-Larry-Way-Yuba-City-CA-95991/16098751_zpid/,410000.0
+372,3,2,1731.0,"1305 Zephyr Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.10949,-121.619774,https://www.zillow.com/homedetails/1305-Zephyr-Dr-Yuba-City-CA-95991/16090568_zpid/,465000.0
+373,3,2,1144.0,"35080 Highway 299e, Alturas, CA 96101",Alturas,CA,96101,41.483368,-120.64487,https://www.zillow.com/homedetails/35080-Highway-299e-Alturas-CA-96101/234675068_zpid/,425000.0
+374,4,2,1493.0,"2501 Drummond Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.092484,-121.609,https://www.zillow.com/homedetails/2501-Drummond-Dr-Yuba-City-CA-95991/16090805_zpid/,425000.0
+375,4,2,1836.0,"17007 County Road 54, Alturas, CA 96101",Alturas,CA,96101,41.452206,-120.59998,https://www.zillow.com/homedetails/17007-County-Road-54-Alturas-CA-96101/234675279_zpid/,250000.0
+376,3,1,1040.0,"819 Rosalind Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.14082,-121.627106,https://www.zillow.com/homedetails/819-Rosalind-Ave-Yuba-City-CA-95991/16082399_zpid/,264900.0
+377,3,2,1396.0,"1052 Courtyard Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.11109,-121.62848,https://www.zillow.com/homedetails/1052-Courtyard-Dr-Yuba-City-CA-95991/62019041_zpid/,389000.0
+378,2,1,1083.0,"875 Frederick St, Yuba City, CA 95991",Yuba City,CA,95991,39.131065,-121.624535,https://www.zillow.com/homedetails/875-Frederick-St-Yuba-City-CA-95991/211843819_zpid/,340000.0
+379,3,2,1467.0,"333 Woodbridge Ave, Yuba City, CA 95991",Yuba City,CA,95991,39.124973,-121.61252,https://www.zillow.com/homedetails/333-Woodbridge-Ave-Yuba-City-CA-95991/16085183_zpid/,335000.0
+380,4,2,1280.0,"527 Benton Dr, Yuba City, CA 95991",Yuba City,CA,95991,39.122047,-121.61809,https://www.zillow.com/homedetails/527-Benton-Dr-Yuba-City-CA-95991/16084398_zpid/,375000.0
+381,5,4,2887.0,"950 Mayflower Way, Yuba City, CA 95991",Yuba City,CA,95991,39.16835,-121.62744,https://www.zillow.com/homedetails/950-Mayflower-Way-Yuba-City-CA-95991/122905603_zpid/,739000.0
+382,3,2,1624.0,"34 Clinton St, Yuba City, CA 95991",Yuba City,CA,95991,39.125427,-121.617546,https://www.zillow.com/homedetails/34-Clinton-St-Yuba-City-CA-95991/16084098_zpid/,384900.0
+383,2,1,864.0,"799 Clark Ave APT 19, Yuba City, CA 95991",Yuba City,CA,95991,39.136246,-121.624794,https://www.zillow.com/homedetails/799-Clark-Ave-APT-19-Yuba-City-CA-95991/16082724_zpid/,165000.0
+384,3,2,1309.0,"1151 Nickel Ln, Yuba City, CA 95991",Yuba City,CA,95991,39.080902,-121.63108,https://www.zillow.com/homedetails/1151-Nickel-Ln-Yuba-City-CA-95991/16098834_zpid/,359900.0
+385,2,1,1094.0,"406 E North St, Alturas, CA 96101",Alturas,CA,96101,41.483597,-120.537834,https://www.zillow.com/homedetails/406-E-North-St-Alturas-CA-96101/19115004_zpid/,135000.0
+386,2,1,952.0,"808 Park St, Alturas, CA 96101",Alturas,CA,96101,41.485844,-120.55388,https://www.zillow.com/homedetails/808-Park-St-Alturas-CA-96101/19114567_zpid/,139000.0
+387,3,1,1712.0,"1355 N Warner St, Alturas, CA 96101",Alturas,CA,96101,41.49637,-120.560814,https://www.zillow.com/homedetails/1355-N-Warner-St-Alturas-CA-96101/19113918_zpid/,275000.0
+388,4,2,2220.0,"306 McKenney Dr, Alturas, CA 96101",Alturas,CA,96101,41.55649,-120.31084,https://www.zillow.com/homedetails/306-McKenney-Dr-Alturas-CA-96101/241549760_zpid/,385000.0
+389,7,5,2152.0,"13061 La Porte Rd, Strawberry Valley, CA 95981",Strawberry Valley,CA,95981,39.558376,-121.12573,https://www.zillow.com/homedetails/13061-La-Porte-Rd-Strawberry-Valley-CA-95981/2065544955_zpid/,379000.0
+390,2,2,2240.0,"13578 La Porte Rd, Strawberry Valley, CA 95981",Strawberry Valley,CA,95981,39.569016,-121.10411,https://www.zillow.com/homedetails/13578-La-Porte-Rd-Strawberry-Valley-CA-95981/16559229_zpid/,245000.0
+391,2,2,960.0,"6306 Graham Rd, Paradise, CA 95969",Paradise,CA,95969,39.77409,-121.621635,https://www.zillow.com/homedetails/6306-Graham-Rd-Paradise-CA-95969/18250064_zpid/,265000.0
+392,3,2,1611.0,"13738 Eureka Dr, Magalia, CA 95954",Magalia,CA,95954,39.808327,-121.596985,https://www.zillow.com/homedetails/13738-Eureka-Dr-Magalia-CA-95954/18264855_zpid/,399000.0
+393,5,7,5363.0,"6313 W Wagstaff Rd, Paradise, CA 95969",Paradise,CA,95969,39.77544,-121.63138,https://www.zillow.com/homedetails/6313-W-Wagstaff-Rd-Paradise-CA-95969/59732264_zpid/,1400000.0
+394,2,2,1056.0,"5751 Academy Dr, Paradise, CA 95969",Paradise,CA,95969,39.755486,-121.61751,https://www.zillow.com/homedetails/5751-Academy-Dr-Paradise-CA-95969/18252673_zpid/,249000.0
+395,3,4,2835.0,"21474 Sleepy Creek Rd, Montgomery Creek, CA 96065",Montgomery Creek,CA,96065,40.90852,-121.913475,https://www.zillow.com/homedetails/21474-Sleepy-Creek-Rd-Montgomery-Creek-CA-96065/335648771_zpid/,679000.0
+396,3,2,1180.0,"21498 Big Bend Rd, Montgomery Creek, CA 96065",Montgomery Creek,CA,96065,40.913853,-121.91084,https://www.zillow.com/homedetails/21498-Big-Bend-Rd-Montgomery-Creek-CA-96065/15204706_zpid/,349000.0
+397,4,3,3460.0,"19649 Cove Rd, Montgomery Creek, CA 96065",Montgomery Creek,CA,96065,40.864643,-121.921776,https://www.zillow.com/homedetails/19649-Cove-Rd-Montgomery-Creek-CA-96065/2071226522_zpid/,1298000.0
+398,1,1,570.0,"4638 Widow Springs Dr, McCloud, CA 96057",McCloud,CA,96057,41.308285,-122.06977,https://www.zillow.com/homedetails/4638-Widow-Springs-Dr-McCloud-CA-96057/240267493_zpid/,130000.0
+399,3,3,1776.0,"1001 Firenze Ave, McCloud, CA 96057",McCloud,CA,96057,41.262695,-122.12031,https://www.zillow.com/homedetails/1001-Firenze-Ave-McCloud-CA-96057/15976379_zpid/,445000.0
+400,2,2,1316.0,"552 N California Ave, McCloud, CA 96057",McCloud,CA,96057,41.257805,-122.13863,https://www.zillow.com/homedetails/552-N-California-Ave-McCloud-CA-96057/2064250380_zpid/,360000.0
+401,3,2,1346.0,"221 Shasta Pines Dr, McCloud, CA 96057",McCloud,CA,96057,41.214996,-122.146194,https://www.zillow.com/homedetails/221-Shasta-Pines-Dr-McCloud-CA-96057/2064369367_zpid/,440000.0
+402,3,2,1520.0,"500 Broadway Ave, McCloud, CA 96057",McCloud,CA,96057,41.256252,-122.13518,https://www.zillow.com/homedetails/500-Broadway-Ave-McCloud-CA-96057/15976083_zpid/,440000.0
+403,2,1,1132.0,"517 Grove St, McCloud, CA 96057",McCloud,CA,96057,41.25625,-122.12816,https://www.zillow.com/homedetails/517-Grove-St-McCloud-CA-96057/219058784_zpid/,335000.0
+404,3,5,4200.0,"30022 Willow Spg, McCloud, CA 96057",McCloud,CA,96057,41.325207,-122.04081,https://www.zillow.com/homedetails/30022-Willow-Spg-McCloud-CA-96057/2065563276_zpid/,25000000.0
+405,4,2,2100.0,"2821 Squaw Valley Rd, McCloud, CA 96057",McCloud,CA,96057,41.21789,-122.14727,https://www.zillow.com/homedetails/2821-Squaw-Valley-Rd-McCloud-CA-96057/219055653_zpid/,350000.0
+406,3,2,1620.0,"13742 Endicot Cir, Magalia, CA 95954",Magalia,CA,95954,39.80732,-121.59811,https://www.zillow.com/homedetails/13742-Endicot-Cir-Magalia-CA-95954/18264870_zpid/,310000.0
+407,3,2,1624.0,"6385 Scripps Ct, Magalia, CA 95954",Magalia,CA,95954,39.802944,-121.59912,https://www.zillow.com/homedetails/6385-Scripps-Ct-Magalia-CA-95954/18265256_zpid/,279900.0
+408,4,4,3850.0,"13495 Nimshew Rd, Magalia, CA 95954",Magalia,CA,95954,39.80391,-121.631,https://www.zillow.com/homedetails/13495-Nimshew-Rd-Magalia-CA-95954/79985387_zpid/,1149000.0
+409,3,4,4461.0,"6481 Apple Creek Dr, Paradise, CA 95969",Paradise,CA,95969,39.772007,-121.57408,https://www.zillow.com/homedetails/6481-Apple-Creek-Dr-Paradise-CA-95969/79984872_zpid/,1199000.0
+410,8,7,2708.0,"9000 Skyway, Paradise, CA 95969",Paradise,CA,95969,39.79165,-121.58942,https://www.zillow.com/homedetails/9000-Skyway-Paradise-CA-95969/249255449_zpid/,569000.0
+411,3,2,1459.0,"220 Berry Creek Dr, Paradise, CA 95969",Paradise,CA,95969,39.74608,-121.618904,https://www.zillow.com/homedetails/220-Berry-Creek-Dr-Paradise-CA-95969/18252921_zpid/,350000.0
+412,2,3,1599.0,"5557 Keith Rd, Paradise, CA 95969",Paradise,CA,95969,39.748955,-121.62362,https://www.zillow.com/homedetails/5557-Keith-Rd-Paradise-CA-95969/18252603_zpid/,472000.0
+413,3,2,1422.0,"8654 Skyway, Paradise, CA 95969",Paradise,CA,95969,39.78327,-121.59957,https://www.zillow.com/homedetails/8654-Skyway-Paradise-CA-95969/18250250_zpid/,469990.0
+414,2,3,2415.0,"14510 Blind Shady Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.33868,-121.058105,https://www.zillow.com/homedetails/14510-Blind-Shady-Rd-Nevada-City-CA-95959/19463554_zpid/,1700000.0
+415,3,5,2054.0,"10914 Monte Vista Ct, Nevada City, CA 95959",Nevada City,CA,95959,39.26929,-121.08421,https://www.zillow.com/homedetails/10914-Monte-Vista-Ct-Nevada-City-CA-95959/19425482_zpid/,999000.0
+416,3,4,3729.0,"14051 Greenwood Cir, Nevada City, CA 95959",Nevada City,CA,95959,39.2479,-121.05307,https://www.zillow.com/homedetails/14051-Greenwood-Cir-Nevada-City-CA-95959/19448005_zpid/,989000.0
+417,3,4,2510.0,"13664 Rockway Pl, Nevada City, CA 95959",Nevada City,CA,95959,39.29808,-120.983795,https://www.zillow.com/homedetails/13664-Rockway-Pl-Nevada-City-CA-95959/19447721_zpid/,825000.0
+418,4,3,1903.0,"300 S Pine St, Nevada City, CA 95959",Nevada City,CA,95959,39.2603,-121.01979,https://www.zillow.com/homedetails/300-S-Pine-St-Nevada-City-CA-95959/19425916_zpid/,995000.0
+419,3,3,2046.0,"10757 Banner Mine Way, Nevada City, CA 95959",Nevada City,CA,95959,39.231983,-121.01074,https://www.zillow.com/homedetails/10757-Banner-Mine-Way-Nevada-City-CA-95959/19450455_zpid/,850000.0
+420,3,2,1739.0,"13296 Idaho Maryland Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.231445,-120.99658,https://www.zillow.com/homedetails/13296-Idaho-Maryland-Rd-Nevada-City-CA-95959/19450287_zpid/,550000.0
+421,3,3,2293.0,"15245 Kimberly Ct, Nevada City, CA 95959",Nevada City,CA,95959,39.30105,-121.01294,https://www.zillow.com/homedetails/15245-Kimberly-Ct-Nevada-City-CA-95959/19447473_zpid/,599000.0
+422,3,3,2875.0,"11468 Valencia Rd #HWY20, Nevada City, CA 95959",Nevada City,CA,95959,39.306293,-120.87953,https://www.zillow.com/homedetails/11468-Valencia-Rd-HWY20-Nevada-City-CA-95959/2064166156_zpid/,889000.0
+423,4,4,3800.0,"11130 Pittsburg Mine Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.240753,-121.017876,https://www.zillow.com/homedetails/11130-Pittsburg-Mine-Rd-Nevada-City-CA-95959/54895755_zpid/,1195000.0
+424,1,1,818.0,"16395 Buckeye Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.252068,-120.85409,https://www.zillow.com/homedetails/16395-Buckeye-Rd-Nevada-City-CA-95959/205315700_zpid/,489000.0
+425,4,4,5473.0,"323 Monroe St, Nevada City, CA 95959",Nevada City,CA,95959,39.262085,-121.02296,https://www.zillow.com/homedetails/323-Monroe-St-Nevada-City-CA-95959/64581189_zpid/,2750000.0
+426,2,2,972.0,"12528 Old French Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.240322,-121.02527,https://www.zillow.com/homedetails/12528-Old-French-Rd-Nevada-City-CA-95959/19448662_zpid/,389000.0
+427,4,4,2604.0,"10554 Haskell Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.276432,-120.99488,https://www.zillow.com/homedetails/10554-Haskell-Rd-Nevada-City-CA-95959/19448944_zpid/,599000.0
+428,4,3,2600.0,"14624 Sunrock Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.283726,-121.06048,https://www.zillow.com/homedetails/14624-Sunrock-Rd-Nevada-City-CA-95959/19425282_zpid/,899000.0
+429,4,3,2621.0,"16230 Bush Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.294758,-121.002045,https://www.zillow.com/homedetails/16230-Bush-Rd-Nevada-City-CA-95959/19447763_zpid/,925000.0
+430,4,3,2826.0,"12384 Discovery Way, Nevada City, CA 95959",Nevada City,CA,95959,39.25141,-121.0815,https://www.zillow.com/homedetails/12384-Discovery-Way-Nevada-City-CA-95959/19425616_zpid/,1149000.0
+431,3,2,2032.0,"18101 Badger Hill Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.38733,-121.03207,https://www.zillow.com/homedetails/18101-Badger-Hill-Rd-Nevada-City-CA-95959/19463299_zpid/,475000.0
+432,3,3,2272.0,"12551 Palmer Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.317623,-120.97637,https://www.zillow.com/homedetails/12551-Palmer-Rd-Nevada-City-CA-95959/19463602_zpid/,727000.0
+433,3,3,2510.0,"11676 Willow Valley Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.271645,-120.98466,https://www.zillow.com/homedetails/11676-Willow-Valley-Rd-Nevada-City-CA-95959/19449487_zpid/,765000.0
+434,3,5,3576.0,"18319 Blue Tent School Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.308537,-120.97018,https://www.zillow.com/homedetails/18319-Blue-Tent-School-Rd-Nevada-City-CA-95959/79545150_zpid/,999000.0
+435,3,2,2036.0,"10660 Valencia Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.315292,-120.8818,https://www.zillow.com/homedetails/10660-Valencia-Rd-Nevada-City-CA-95959/19432105_zpid/,699000.0
+436,3,3,2422.0,"14071 Mount Auburn Cir, Nevada City, CA 95959",Nevada City,CA,95959,39.27862,-121.05307,https://www.zillow.com/homedetails/14071-Mount-Auburn-Cir-Nevada-City-CA-95959/19424883_zpid/,899000.0
+437,3,4,3436.0,"11193 Pittsburg Mine Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.239304,-121.01679,https://www.zillow.com/homedetails/11193-Pittsburg-Mine-Rd-Nevada-City-CA-95959/89468717_zpid/,1595000.0
+438,4,2,1440.0,"306 Redbud Way, Nevada City, CA 95959",Nevada City,CA,95959,39.26615,-121.027435,https://www.zillow.com/homedetails/306-Redbud-Way-Nevada-City-CA-95959/68565721_zpid/,550000.0
+439,5,5,4150.0,"449 Washington St, Nevada City, CA 95959",Nevada City,CA,95959,39.26562,-121.015045,https://www.zillow.com/homedetails/449-Washington-St-Nevada-City-CA-95959/19426338_zpid/,1395000.0
+440,4,4,3200.0,"19375 Oak Tree Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.36767,-121.09367,https://www.zillow.com/homedetails/19375-Oak-Tree-Rd-Nevada-City-CA-95959/54895860_zpid/,950000.0
+441,3,3,2678.0,"14622 Rudd Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.26671,-121.1468,https://www.zillow.com/homedetails/14622-Rudd-Rd-Nevada-City-CA-95959/89469921_zpid/,1196000.0
+442,1,1,400.0,"16164 Banner Quaker Hill Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.263523,-120.910095,https://www.zillow.com/homedetails/16164-Banner-Quaker-Hill-Rd-Nevada-City-CA-95959/300500570_zpid/,225000.0
+443,4,3,3341.0,"14267 Greenwood Cir, Nevada City, CA 95959",Nevada City,CA,95959,39.248646,-121.04992,https://www.zillow.com/homedetails/14267-Greenwood-Cir-Nevada-City-CA-95959/19448001_zpid/,899000.0
+444,4,3,2800.0,"10935 Scotts Flat Dam Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.27437,-120.944145,https://www.zillow.com/homedetails/10935-Scotts-Flat-Dam-Rd-Nevada-City-CA-95959/2088224722_zpid/,1600000.0
+445,3,2,1280.0,"6800 Elk Springs Rd, McCloud, CA 96057",McCloud,CA,96057,41.32845,-122.07885,https://www.zillow.com/homedetails/6800-Elk-Springs-Rd-McCloud-CA-96057/2097398923_zpid/,259000.0
+446,1,1,672.0,"6226 Summit Cir, McCloud, CA 96057",McCloud,CA,96057,41.2826,-121.91321,https://www.zillow.com/homedetails/6226-Summit-Cir-McCloud-CA-96057/15983162_zpid/,229000.0
+447,2,2,1539.0,"1610 Western Ct, McCloud, CA 96057",McCloud,CA,96057,41.326305,-122.095245,https://www.zillow.com/homedetails/1610-Western-Ct-McCloud-CA-96057/69024279_zpid/,395000.0
+448,4,3,2592.0,"13288 Banner Lava Cap Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.239017,-120.97619,https://www.zillow.com/homedetails/13288-Banner-Lava-Cap-Rd-Nevada-City-CA-95959/19451213_zpid/,775000.0
+449,1,2,1966.0,"338 Jordan St, Nevada City, CA 95959",Nevada City,CA,95959,39.260746,-121.02355,https://www.zillow.com/homedetails/338-Jordan-St-Nevada-City-CA-95959/19425927_zpid/,865000.0
+450,4,3,4693.0,"12665 Lazy Acres Ct, Nevada City, CA 95959",Nevada City,CA,95959,39.23909,-121.105034,https://www.zillow.com/homedetails/12665-Lazy-Acres-Ct-Nevada-City-CA-95959/19460706_zpid/,990000.0
+451,2,2,1100.0,"829 Spring Meadows Rd, McCloud, CA 96057",McCloud,CA,96057,41.215244,-122.134125,https://www.zillow.com/homedetails/829-Spring-Meadows-Rd-McCloud-CA-96057/15973085_zpid/,360000.0
+452,3,2,1989.0,"16495 Lake Vera Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.297825,-121.02597,https://www.zillow.com/homedetails/16495-Lake-Vera-Rd-Nevada-City-CA-95959/2097254152_zpid/,689000.0
+453,2,1,954.0,"10978 Bitney Springs Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.24326,-121.10787,https://www.zillow.com/homedetails/10978-Bitney-Springs-Rd-Nevada-City-CA-95959/19460050_zpid/,389000.0
+454,3,2,2218.0,"37255 Obsidian Way, Nevada City, CA 95959",Nevada City,CA,95959,39.35314,-120.65587,https://www.zillow.com/homedetails/37255-Obsidian-Way-Nevada-City-CA-95959/2084880849_zpid/,1500000.0
+455,1,1,840.0,"13275 Burlington Ridge Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.304123,-120.83853,https://www.zillow.com/homedetails/13275-Burlington-Ridge-Rd-Nevada-City-CA-95959/19432047_zpid/,380000.0
+456,2,2,1088.0,"325 Gracie Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.25424,-121.011055,https://www.zillow.com/homedetails/325-Gracie-Rd-Nevada-City-CA-95959/19426699_zpid/,350000.0
+457,2,2,1238.0,"12310 Short Cir, Nevada City, CA 95959",Nevada City,CA,95959,39.24733,-120.95717,https://www.zillow.com/homedetails/12310-Short-Cir-Nevada-City-CA-95959/19451567_zpid/,549000.0
+458,3,4,3355.0,"407 Old Downieville Hwy, Nevada City, CA 95959",Nevada City,CA,95959,39.26075,-121.027916,https://www.zillow.com/homedetails/407-Old-Downieville-Hwy-Nevada-City-CA-95959/19425899_zpid/,1299000.0
+459,3,2,2038.0,"12197 Poke Pl, Nevada City, CA 95959",Nevada City,CA,95959,39.25288,-121.00015,https://www.zillow.com/homedetails/12197-Poke-Pl-Nevada-City-CA-95959/19449714_zpid/,725000.0
+460,3,2,3076.0,"60823 Gordons Ferry Rd, Happy Camp, CA 96039",Happy Camp,CA,96039,41.79453,-123.34401,https://www.zillow.com/homedetails/60823-Gordons-Ferry-Rd-Happy-Camp-CA-96039/15970306_zpid/,460000.0
+461,3,2,1671.0,"17266 State Highway 49, Nevada City, CA 95959",Nevada City,CA,95959,39.271095,-121.063866,https://www.zillow.com/homedetails/17266-State-Highway-49-Nevada-City-CA-95959/19425391_zpid/,720000.0
+462,2,1,1165.0,"416 N Pine St, Nevada City, CA 95959",Nevada City,CA,95959,39.26458,-121.01931,https://www.zillow.com/homedetails/416-N-Pine-St-Nevada-City-CA-95959/19426311_zpid/,600000.0
+463,2,2,1299.0,"11653 Emerald Ln, Nevada City, CA 95959",Nevada City,CA,95959,39.26222,-120.97308,https://www.zillow.com/homedetails/11653-Emerald-Ln-Nevada-City-CA-95959/19449091_zpid/,599000.0
+464,3,3,2752.0,"11325 Constitution Ct, Nevada City, CA 95959",Nevada City,CA,95959,39.26394,-121.04047,https://www.zillow.com/homedetails/11325-Constitution-Ct-Nevada-City-CA-95959/247549167_zpid/,1175000.0
+465,3,3,2986.0,"11618 Victorian Ct, Nevada City, CA 95959",Nevada City,CA,95959,39.26429,-120.92958,https://www.zillow.com/homedetails/11618-Victorian-Ct-Nevada-City-CA-95959/19451034_zpid/,1100000.0
+466,4,3,3637.0,"11285 Woodwardia Pl, Nevada City, CA 95959",Nevada City,CA,95959,39.243313,-121.00563,https://www.zillow.com/homedetails/11285-Woodwardia-Pl-Nevada-City-CA-95959/19449817_zpid/,1185000.0
+467,3,3,2375.0,"11181 Golden Way, Nevada City, CA 95959",Nevada City,CA,95959,39.23601,-121.011345,https://www.zillow.com/homedetails/11181-Golden-Way-Nevada-City-CA-95959/19450422_zpid/,895000.0
+468,3,3,1639.0,"22400 State Highway 20, Nevada City, CA 95959",Nevada City,CA,95959,39.31935,-120.89482,https://www.zillow.com/homedetails/22400-State-Highway-20-Nevada-City-CA-95959/68553186_zpid/,925000.0
+469,2,2,1507.0,"803 Uren St, Nevada City, CA 95959",Nevada City,CA,95959,39.270267,-121.01034,https://www.zillow.com/homedetails/803-Uren-St-Nevada-City-CA-95959/19449286_zpid/,995000.0
+470,3,4,2991.0,"15130 Skaith Bend Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.275356,-121.15387,https://www.zillow.com/homedetails/15130-Skaith-Bend-Rd-Nevada-City-CA-95959/79549877_zpid/,839000.0
+471,4,4,2310.0,"13071 Madrone Forest Dr, Nevada City, CA 95959",Nevada City,CA,95959,39.226536,-120.99555,https://www.zillow.com/homedetails/13071-Madrone-Forest-Dr-Nevada-City-CA-95959/19426790_zpid/,1095000.0
+472,3,3,1850.0,"19148 Scotts Flat Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.28397,-120.944565,https://www.zillow.com/homedetails/19148-Scotts-Flat-Rd-Nevada-City-CA-95959/19450483_zpid/,598000.0
+473,2,1,1272.0,"16787 Red Dog Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.231644,-120.91998,https://www.zillow.com/homedetails/16787-Red-Dog-Rd-Nevada-City-CA-95959/19450916_zpid/,480000.0
+474,3,3,3006.0,"10300 Indian Trl, Nevada City, CA 95959",Nevada City,CA,95959,39.266747,-121.05071,https://www.zillow.com/homedetails/10300-Indian-Trl-Nevada-City-CA-95959/205265490_zpid/,1150000.0
+475,4,3,2397.0,"12367 Palmer Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.316536,-120.97327,https://www.zillow.com/homedetails/12367-Palmer-Rd-Nevada-City-CA-95959/19463600_zpid/,650000.0
+476,3,2,1350.0,"18310 Shelter Haven Ct, Cottonwood, CA 96022",Cottonwood,CA,96022,40.32541,-122.4212,https://www.zillow.com/homedetails/18310-Shelter-Haven-Ct-Cottonwood-CA-96022/16167788_zpid/,425000.0
+477,3,3,1807.0,"18983 Starboard Pl, Cottonwood, CA 96022",Cottonwood,CA,96022,40.345364,-122.19574,https://www.zillow.com/homedetails/18983-Starboard-Pl-Cottonwood-CA-96022/16183709_zpid/,410000.0
+478,3,2,1800.0,"18260 Wildridge Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.324516,-122.362724,https://www.zillow.com/homedetails/18260-Wildridge-Rd-Cottonwood-CA-96022/16168015_zpid/,749000.0
+479,3,3,3704.0,"18980 Country View Dr, Cottonwood, CA 96022",Cottonwood,CA,96022,40.34489,-122.294106,https://www.zillow.com/homedetails/18980-Country-View-Dr-Cottonwood-CA-96022/16167416_zpid/,1200000.0
+480,3,2,1200.0,"19536 Valley Frd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.36367,-122.2108,https://www.zillow.com/homedetails/19536-Valley-Frd-Cottonwood-CA-96022/2064174112_zpid/,289000.0
+481,3,2,2334.0,"17620 Dolores Dr, Cottonwood, CA 96022",Cottonwood,CA,96022,40.307056,-122.35343,https://www.zillow.com/homedetails/17620-Dolores-Dr-Cottonwood-CA-96022/69035955_zpid/,679000.0
+482,3,2,1528.0,"3576 View Acres Dr, Cottonwood, CA 96022",Cottonwood,CA,96022,40.39105,-122.39381,https://www.zillow.com/homedetails/3576-View-Acres-Dr-Cottonwood-CA-96022/15247965_zpid/,399900.0
+483,3,2,1685.0,"17750 Golden Meadow Trl, Cottonwood, CA 96022",Cottonwood,CA,96022,40.275772,-122.37896,https://www.zillow.com/homedetails/17750-Golden-Meadow-Trl-Cottonwood-CA-96022/16168601_zpid/,399000.0
+484,3,2,2072.0,"19037 Finger Point Way, Cottonwood, CA 96022",Cottonwood,CA,96022,40.34709,-122.196236,https://www.zillow.com/homedetails/19037-Finger-Point-Way-Cottonwood-CA-96022/79575397_zpid/,455000.0
+485,4,3,4390.0,"22049 Los Alamos Ln, Cottonwood, CA 96022",Cottonwood,CA,96022,40.40003,-122.23449,https://www.zillow.com/homedetails/22049-Los-Alamos-Ln-Cottonwood-CA-96022/15226812_zpid/,949900.0
+486,3,2,1456.0,"18560 Bywood Dr, Cottonwood, CA 96022",Cottonwood,CA,96022,40.333546,-122.35228,https://www.zillow.com/homedetails/18560-Bywood-Dr-Cottonwood-CA-96022/16167596_zpid/,425000.0
+487,3,3,3639.0,"18785 Garrett Ct, Cottonwood, CA 96022",Cottonwood,CA,96022,40.33995,-122.30663,https://www.zillow.com/homedetails/18785-Garrett-Ct-Cottonwood-CA-96022/16167989_zpid/,1999000.0
+488,3,2,1682.0,"22616 Rio Alto Dr, Cottonwood, CA 96022",Cottonwood,CA,96022,40.356384,-122.19436,https://www.zillow.com/homedetails/22616-Rio-Alto-Dr-Cottonwood-CA-96022/113206091_zpid/,432800.0
+489,4,4,2408.0,"19200 Sebastian Ct, Cottonwood, CA 96022",Cottonwood,CA,96022,40.352226,-122.34592,https://www.zillow.com/homedetails/19200-Sebastian-Ct-Cottonwood-CA-96022/16166957_zpid/,773700.0
+490,2,1,1300.0,"22136 Buckeye Pl, Cottonwood, CA 96022",Cottonwood,CA,96022,40.358505,-122.21234,https://www.zillow.com/homedetails/22136-Buckeye-Pl-Cottonwood-CA-96022/16183095_zpid/,299000.0
+491,3,3,2996.0,"18570 Country Hills Dr, Cottonwood, CA 96022",Cottonwood,CA,96022,40.345116,-122.30467,https://www.zillow.com/homedetails/18570-Country-Hills-Dr-Cottonwood-CA-96022/16167991_zpid/,1049000.0
+492,3,2,2190.0,"2567 Majestic Oak Cir, Cottonwood, CA 96022",Cottonwood,CA,96022,40.38753,-122.35355,https://www.zillow.com/homedetails/2567-Majestic-Oak-Cir-Cottonwood-CA-96022/15248164_zpid/,789900.0
+493,3,1,1198.0,"19490 Draper Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.369328,-122.311005,https://www.zillow.com/homedetails/19490-Draper-Rd-Cottonwood-CA-96022/241057351_zpid/,2250000.0
+494,3,1,1450.0,"14968 Tyler Foote Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.37064,-121.04177,https://www.zillow.com/homedetails/14968-Tyler-Foote-Rd-Nevada-City-CA-95959/305153145_zpid/,1100000.0
+495,3,3,3170.0,"10290 Los Altos Ln, Nevada City, CA 95959",Nevada City,CA,95959,39.280907,-120.96061,https://www.zillow.com/homedetails/10290-Los-Altos-Ln-Nevada-City-CA-95959/19448994_zpid/,939000.0
+496,2,2,1344.0,"17575 Southlake Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.27436,-122.38412,https://www.zillow.com/homedetails/17575-Southlake-Rd-Cottonwood-CA-96022/16168600_zpid/,255000.0
+497,3,3,2321.0,"104 Parkside Pl, Nevada City, CA 95959",Nevada City,CA,95959,39.257378,-121.01301,https://www.zillow.com/homedetails/104-Parkside-Pl-Nevada-City-CA-95959/19426571_zpid/,599000.0
+498,1,1,400.0,"18128 Cruzon Grade Rd #18076, Nevada City, CA 95959",Nevada City,CA,95959,39.39217,-120.955734,https://www.zillow.com/homedetails/18128-Cruzon-Grade-Rd-18076-Nevada-City-CA-95959/2065618613_zpid/,289000.0
+499,4,3,2403.0,"19512 Fullerton Way, Cottonwood, CA 96022",Cottonwood,CA,96022,40.381233,-122.33037,https://www.zillow.com/homedetails/19512-Fullerton-Way-Cottonwood-CA-96022/15225828_zpid/,679900.0
+500,3,3,2101.0,"123 Address, Nevada City, CA 95959",Nevada City,CA,95959,39.3,-120.9771,https://www.zillow.com/homedetails/123-Address-Nevada-City-CA-95959/2089352885_zpid/,2250000.0
+501,3,1,1248.0,"18440 Benson Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.329617,-122.37174,https://www.zillow.com/homedetails/18440-Benson-Rd-Cottonwood-CA-96022/16167509_zpid/,369000.0
+502,4,2,1560.0,"18150 Hayes Way, Cottonwood, CA 96022",Cottonwood,CA,96022,40.32055,-122.413445,https://www.zillow.com/homedetails/18150-Hayes-Way-Cottonwood-CA-96022/16167694_zpid/,349000.0
+503,3,2,1507.0,"3395 Mansee Dr, Cottonwood, CA 96022",Cottonwood,CA,96022,40.3859,-122.464874,https://www.zillow.com/homedetails/3395-Mansee-Dr-Cottonwood-CA-96022/15248501_zpid/,489000.0
+504,3,3,1897.0,"17793 Cruzon Grade Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.389076,-120.960396,https://www.zillow.com/homedetails/17793-Cruzon-Grade-Rd-Nevada-City-CA-95959/68553110_zpid/,475000.0
+505,3,2,1772.0,"17071 Marianas Way, Cottonwood, CA 96022",Cottonwood,CA,96022,40.39709,-122.40884,https://www.zillow.com/homedetails/17071-Marianas-Way-Cottonwood-CA-96022/59679063_zpid/,584500.0
+506,3,2,1477.0,"20638 Rector Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.302036,-121.01927,https://www.zillow.com/homedetails/20638-Rector-Rd-Nevada-City-CA-95959/19447468_zpid/,559000.0
+507,3,3,2597.0,"12595 Cavanaugh Ln, Nevada City, CA 95959",Nevada City,CA,95959,39.27523,-121.05415,https://www.zillow.com/homedetails/12595-Cavanaugh-Ln-Nevada-City-CA-95959/19424902_zpid/,899000.0
+508,3,2,1647.0,"11805 Scotts Flat Dam Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.27175,-120.94403,https://www.zillow.com/homedetails/11805-Scotts-Flat-Dam-Rd-Nevada-City-CA-95959/68553452_zpid/,849000.0
+509,3,3,2769.0,"14101 Marigold Way, Nevada City, CA 95959",Nevada City,CA,95959,39.29733,-121.032486,https://www.zillow.com/homedetails/14101-Marigold-Way-Nevada-City-CA-95959/19447845_zpid/,1395000.0
+510,4,3,1786.0,"18410 Farquhar Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.32796,-122.42473,https://www.zillow.com/homedetails/18410-Farquhar-Rd-Cottonwood-CA-96022/16167891_zpid/,525000.0
+511,2,2,1120.0,"19435 Purdon Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.318176,-121.04048,https://www.zillow.com/homedetails/19435-Purdon-Rd-Nevada-City-CA-95959/79548767_zpid/,789000.0
+512,3,3,3248.0,"11524 N Bloomfield Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.28408,-121.00997,https://www.zillow.com/homedetails/11524-N-Bloomfield-Rd-Nevada-City-CA-95959/19448806_zpid/,745000.0
+513,3,3,2700.0,"16095 Westview Way, Cottonwood, CA 96022",Cottonwood,CA,96022,40.287502,-122.40445,https://www.zillow.com/homedetails/16095-Westview-Way-Cottonwood-CA-96022/64729697_zpid/,539000.0
+514,5,3,3794.0,"10966 Cement Hill Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.27564,-121.04273,https://www.zillow.com/homedetails/10966-Cement-Hill-Rd-Nevada-City-CA-95959/19424900_zpid/,1048000.0
+515,4,2,1872.0,"17035 Rising Ridge Ln, Cottonwood, CA 96022",Cottonwood,CA,96022,40.267258,-122.40566,https://www.zillow.com/homedetails/17035-Rising-Ridge-Ln-Cottonwood-CA-96022/2066397403_zpid/,335000.0
+516,4,4,3226.0,"12005 Deer Park Dr, Nevada City, CA 95959",Nevada City,CA,95959,39.24398,-121.06406,https://www.zillow.com/homedetails/12005-Deer-Park-Dr-Nevada-City-CA-95959/68553120_zpid/,748900.0
+517,4,3,3914.0,"18425 River Downs Way, Cottonwood, CA 96022",Cottonwood,CA,96022,40.32908,-122.2613,https://www.zillow.com/homedetails/18425-River-Downs-Way-Cottonwood-CA-96022/113200435_zpid/,1699000.0
+518,2,2,700.0,"3557 Dickens Ln, Cottonwood, CA 96022",Cottonwood,CA,96022,40.391823,-122.36067,https://www.zillow.com/homedetails/3557-Dickens-Ln-Cottonwood-CA-96022/335648509_zpid/,229000.0
+519,2,1,1393.0,"20849 New Rome Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.304237,-121.0397,https://www.zillow.com/homedetails/20849-New-Rome-Rd-Nevada-City-CA-95959/19445538_zpid/,189000.0
+520,3,3,2100.0,"20135 Gas Point Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.388218,-122.30674,https://www.zillow.com/homedetails/20135-Gas-Point-Rd-Cottonwood-CA-96022/15225970_zpid/,699000.0
+521,6,8,8263.0,"21374 Maidu Rdg, Nevada City, CA 95959",Nevada City,CA,95959,39.37622,-121.06081,https://www.zillow.com/homedetails/21374-Maidu-Rdg-Nevada-City-CA-95959/119598002_zpid/,4750000.0
+522,3,3,2924.0,"14417 Banner Mountain Lookout Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.245403,-120.95929,https://www.zillow.com/homedetails/14417-Banner-Mountain-Lookout-Rd-Nevada-City-CA-95959/68553454_zpid/,865000.0
+523,2,1,1200.0,"13331 Lowell Hill Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.272743,-120.75837,https://www.zillow.com/homedetails/13331-Lowell-Hill-Rd-Nevada-City-CA-95959/2067268533_zpid/,599000.0
+524,3,2,2392.0,"16254 Grizzly Ridge Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.395233,-120.90994,https://www.zillow.com/homedetails/16254-Grizzly-Ridge-Rd-Nevada-City-CA-95959/205264218_zpid/,925000.0
+525,4,4,3120.0,"18433 Starduster Dr, Nevada City, CA 95959",Nevada City,CA,95959,39.264572,-121.179756,https://www.zillow.com/homedetails/18433-Starduster-Dr-Nevada-City-CA-95959/19444558_zpid/,739000.0
+526,3,3,3123.0,"126 Boulder St, Nevada City, CA 95959",Nevada City,CA,95959,39.26116,-121.01394,https://www.zillow.com/homedetails/126-Boulder-St-Nevada-City-CA-95959/19426436_zpid/,1300000.0
+527,3,3,2943.0,"13595 Quaker Hill Cross Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.258644,-120.95507,https://www.zillow.com/homedetails/13595-Quaker-Hill-Cross-Rd-Nevada-City-CA-95959/19449047_zpid/,949000.0
+528,4,4,4036.0,"13268 Woodstock Dr, Nevada City, CA 95959",Nevada City,CA,95959,39.241085,-120.974945,https://www.zillow.com/homedetails/13268-Woodstock-Dr-Nevada-City-CA-95959/19451589_zpid/,1288000.0
+529,3,4,2322.0,"10688 Foster Driveway Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.277046,-121.03934,https://www.zillow.com/homedetails/10688-Foster-Driveway-Rd-Nevada-City-CA-95959/19424904_zpid/,869000.0
+530,3,2,1224.0,"22150 Oak Run Pl, Cottonwood, CA 96022",Cottonwood,CA,96022,40.35757,-122.21185,https://www.zillow.com/homedetails/22150-Oak-Run-Pl-Cottonwood-CA-96022/16183103_zpid/,324900.0
+531,3,3,2000.0,"11300 N Bloomfield Graniteville Rd, Nevada City, CA 95959",Nevada City,CA,95959,39.281124,-121.01405,https://www.zillow.com/homedetails/11300-N-Bloomfield-Graniteville-Rd-Nevada-City-CA-95959/2069084333_zpid/,525000.0
+532,2,2,2700.0,"17780 Benson Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.310455,-122.38162,https://www.zillow.com/homedetails/17780-Benson-Rd-Cottonwood-CA-96022/16168048_zpid/,699000.0
+533,3,3,2448.0,"16865 Big Pines Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.28511,-122.404274,https://www.zillow.com/homedetails/16865-Big-Pines-Rd-Cottonwood-CA-96022/69035939_zpid/,637500.0
+534,3,2,1560.0,"16310 Bowman Rd, Cottonwood, CA 96022",Cottonwood,CA,96022,40.32497,-122.43264,https://www.zillow.com/homedetails/16310-Bowman-Rd-Cottonwood-CA-96022/16167711_zpid/,325000.0
+535,3,2,2130.0,"4334 Valley St, Cottonwood, CA 96022",Cottonwood,CA,96022,40.414486,-122.27434,https://www.zillow.com/homedetails/4334-Valley-St-Cottonwood-CA-96022/131630353_zpid/,484900.0
