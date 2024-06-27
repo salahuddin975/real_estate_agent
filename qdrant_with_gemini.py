@@ -5,6 +5,7 @@ Tutorial link: https://qdrant.tech/documentation/embeddings/gemini/
 '''
 
 import pandas as pd
+import getpass
 import json
 import google.generativeai as gemini_client
 from qdrant_client import QdrantClient
@@ -14,7 +15,7 @@ from qdrant_client.models import Distance, PointStruct, VectorParams
 #------------- Embedding a document ------------
 
 collection_name = "real_estate"
-GEMINI_API_KEY = "AIzaSyDEbNR3g35CW0lWscsRd9yIGfZ26CoInqw"  # add your key here
+GEMINI_API_KEY = getpass.getpass()    # use your Google API key
 
 client = QdrantClient(url="http://localhost:6333")
 gemini_client.configure(api_key=GEMINI_API_KEY)
